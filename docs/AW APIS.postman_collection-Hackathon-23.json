@@ -1,0 +1,140 @@
+{
+	"info": {
+		"_postman_id": "14f566ed-9d4f-489b-a850-6dd24fc80761",
+		"name": "AW APIS",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "20923715",
+		"_collection_link": "https://bold-star-589458.postman.co/workspace/TC-on-AWS~73370d08-e80f-40c1-8c7e-ac51303aa3ec/collection/20923715-14f566ed-9d4f-489b-a850-6dd24fc80761?action=share&creator=20923715&source=collection_link"
+	},
+	"item": [
+		{
+			"name": "Log-in",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Cookie",
+						"value": "_csrf=39l1RSNA4BBXcDDOhcsd-Lmo;",
+						"type": "text"
+					},
+					{
+						"key": "X-xsrf-token",
+						"value": "RpFx8jmy-NX0ZBrYphQ8EiT6400b6s0a-fYU",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"header\": {\r\n        \"state\": {\r\n            \"clientVersion\": \"10000.1.2\",\r\n            \"logCorrelationID\": \":bu1inav3yyl.1683709731756\",\r\n            \"stateless\": true,\r\n            \"unloadObjects\": true,\r\n            \"enableServerStateHeaders\": true,\r\n            \"formatProperties\": true,\r\n            \"clientID\": \"ActiveWorkspaceClient\"\r\n        },\r\n        \"policy\": {}\r\n    },\r\n    \"body\": {\r\n        \"credentials\": {\r\n            \"user\": \"bhupendra\",\r\n            \"password\": \"bhupendra\",\r\n            \"group\": \"\",\r\n            \"role\": \"\",\r\n            \"locale\": \"en_US\",\r\n            \"descrimator\": \"AWC14808\"\r\n        }\r\n    }\r\n}"
+				},
+				"url": {
+					"raw": "https://tc-slm.siemens.local/tc/JsonRestServices/Core-2011-06-Session/login",
+					"protocol": "https",
+					"host": [
+						"tc-slm",
+						"siemens",
+						"local"
+					],
+					"path": [
+						"tc",
+						"JsonRestServices",
+						"Core-2011-06-Session",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "search_SR_AWS",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Cookie",
+						"value": "_csrf=39l1RSNA4BBXcDDOhcsd-Lmo;",
+						"type": "text"
+					},
+					{
+						"key": "X-xsrf-token",
+						"value": "RpFx8jmy-NX0ZBrYphQ8EiT6400b6s0a-fYU",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"header\": {\r\n        \"state\": {\r\n            \"clientVersion\": \"10000.1.2\",\r\n            \"logCorrelationID\": \":bu1inav3yyl.1683709731756\",\r\n            \"stateless\": true,\r\n            \"unloadObjects\": true,\r\n            \"enableServerStateHeaders\": true,\r\n            \"formatProperties\": true,\r\n            \"clientID\": \"ActiveWorkspaceClient\"\r\n        },\r\n        \"policy\": {\r\n            \"useRefCount\": false,\r\n            \"types\": [\r\n                {\r\n                    \"name\": \"SSP0ServiceReq\",\r\n                    \"properties\": [\r\n                        {\r\n                            \"name\": \"revision_list\"\r\n                        },\r\n                        {\r\n                            \"name\": \"object_string\"\r\n                        },\r\n                        { \"name\" : \"object_name\"}\r\n                    ]\r\n                },\r\n                {\r\n                    \"name\": \"SSP0ServiceReqRevision\",\r\n                    \"properties\": [\r\n                        {\r\n                            \"name\": \"object_name\"\r\n                        },\r\n                        {\r\n                            \"name\": \"object_string\"\r\n                        }\r\n                    ]\r\n                }\r\n            ]\r\n        }\r\n    },\r\n    \"body\": {\r\n        \"searchInput\": {\r\n            \"maxToLoad\": 50,\r\n            \"maxToReturn\": 50,\r\n            \"providerName\": \"Awp0SavedQuerySearchProvider\",\r\n            \"searchCriteria\": {\r\n                \"queryUID\": \"AHrN4TgxJWjNxA\",\r\n                \"typeOfSearch\": \"ADVANCED_SEARCH\",\r\n                \"lastEndIndex\": \"\",\r\n                \"totalObjectsFoundReportedToClient\": \"\",\r\n                \"object_name\": \"*\",\r\n                \"searchID\": \"\",\r\n                \"utcOffset\": \"330\"\r\n            },\r\n            \"searchFilterFieldSortType\": \"Priority\",\r\n            \"startIndex\": 0,\r\n            \"searchFilterMap6\": {},\r\n            \"searchSortCriteria\": [],\r\n            \"attributesToInflate\": [],\r\n            \"internalPropertyName\": \"\",\r\n            \"columnFilters\": [],\r\n            \"cursor\": {\r\n                \"startIndex\": 0,\r\n                \"endIndex\": 0,\r\n                \"startReached\": false,\r\n                \"endReached\": false\r\n            },\r\n            \"focusObjUid\": \"\",\r\n            \"pagingType\": \"\"\r\n        },\r\n        \"inflateProperties\": false,\r\n        \"columnConfigInput\": {\r\n            \"clientName\": \"\",\r\n            \"hostingClientName\": \"\",\r\n            \"clientScopeURI\": \"\",\r\n            \"operationType\": \"\",\r\n            \"columnsToExclude\": []\r\n        },\r\n        \"saveColumnConfigData\": {\r\n            \"scope\": \"\",\r\n            \"scopeName\": \"\",\r\n            \"clientScopeURI\": \"\",\r\n            \"columnConfigId\": \"\",\r\n            \"columns\": []\r\n        },\r\n        \"noServiceData\": false\r\n    }\r\n}"
+				},
+				"url": {
+					"raw": "https://tc-slm.siemens.local/tc/JsonRestServices/Internal-AWS2-2019-06-Finder/performSearchViewModel4",
+					"protocol": "https",
+					"host": [
+						"tc-slm",
+						"siemens",
+						"local"
+					],
+					"path": [
+						"tc",
+						"JsonRestServices",
+						"Internal-AWS2-2019-06-Finder",
+						"performSearchViewModel4"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "log-out",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Cookie",
+						"value": "_csrf=39l1RSNA4BBXcDDOhcsd-Lmo; JSESSIONID=152E308F2A0A3A24F7F4CDE0BAF19CD0",
+						"type": "text"
+					},
+					{
+						"key": "X-xsrf-token",
+						"value": "RpFx8jmy-NX0ZBrYphQ8EiT6400b6s0a-fYU",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"header\": {\r\n        \"state\": {\r\n            \"clientVersion\": \"10000.1.2\",\r\n            \"logCorrelationID\": \":bu1inav3yyl.1683709780062\",\r\n            \"stateless\": true,\r\n            \"unloadObjects\": true,\r\n            \"enableServerStateHeaders\": true,\r\n            \"formatProperties\": true,\r\n            \"clientID\": \"ActiveWorkspaceClient\",\r\n            \"groupMember\": \"wnHAAQeN5BWnuC\",\r\n            \"role\": \"Designer\",\r\n            \"locale\": \"en_US\"\r\n        },\r\n        \"policy\": {}\r\n    },\r\n    \"body\": {}\r\n}"
+				},
+				"url": {
+					"raw": "https://tc-slm.siemens.local/tc/JsonRestServices/Core-2006-03-Session/logout",
+					"protocol": "https",
+					"host": [
+						"tc-slm",
+						"siemens",
+						"local"
+					],
+					"path": [
+						"tc",
+						"JsonRestServices",
+						"Core-2006-03-Session",
+						"logout"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

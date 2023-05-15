@@ -1,0 +1,43 @@
+
+========================== For search ====================================
+ServiceData.plain[0]  & [1] & [2]  get uid of the SR. and use that  = RFlRF30lJWjNxA 
+
+Validate  
+ServiceData.modelObjects.RFlRF30lJWjNxA.className   UID and class name exists 
+= SSP0ServiceReq 
+
+
+name at : ServiceData.modelObjects.RFlRF30lJWjNxA.props.object_name.uiValues[0] 
+
+
+
+========================== For SWI ====================================
+
+
+output.swiItems
+get UID .
+ and search that UID in serviceData modelObject 
+ and in 
+ ServiceData.modelObjects["SR::N::Swi1WorkInstructionsItem..2.hdnRF30lJWjNxA.BhtRF30ZJWjNxA.RFlRF30lJWjNxA"].props
+ 
+ 
+ check the underlaying object:
+ ServiceData.modelObjects["SR::N::Swi1WorkInstructionsItem..3.xJpRF30lJWjNxA.h1uRF30lJWjNxA.RFlRF30lJWjNxA"].props.swi1UnderlyingObject.dbValues[0]  => h1uRF30lJWjNxA
+ gain search this underlaying object value in 
+ ServiceData.modelObjects
+ and find type => this will give  ( work card or activity , we need to find the for these to group them) 
+ ServiceData.modelObjects.h1uRF30lJWjNxA.type  => SLM9WorkCardRevision 
+ 
+ and object Name to be added as string to be display
+ ServiceData.modelObjects.h1uRF30lJWjNxA.props.object_name.uiValues[0]  ==> WC2
+ or
+ ServiceData.modelObjects["SR::N::Swi1WorkInstructionsItem..1..BxgRF30ZJWjNxA.Q5nR13MJJWjNxA"].props.swi1ObjectName.uiValues[0] ==>  Repair the machine
+ 
+ if it is ( warning ot notices  we do not need to find the parent for it.  we can add them in safty instrustions )
+ 1. check the parent 
+ ServiceData.modelObjects["SR::N::Swi1WorkInstructionsItem..2.hdnRF30lJWjNxA.BhtRF30ZJWjNxA.RFlRF30lJWjNxA"].props.swi1Parent
+ 
+ For parts tools and skills
+ 
+ ServiceData.modelObjects["SR::N::Swi1WorkInstructionsItem..1..BxgRF30ZJWjNxA.Q5nR13MJJWjNxA"].props.swi1Skills.uiValues[0]  ==> 033922/A;1-certified professional
+ ServiceData.modelObjects["SR::N::Swi1WorkInstructionsItem..1..BxgRF30ZJWjNxA.Q5nR13MJJWjNxA"].props.swi1Parts.uiValues[0]  ==>  033915/A;1-Part_x_2
