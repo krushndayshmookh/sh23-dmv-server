@@ -1,10 +1,19 @@
 // vercel serverless function to search for SWI
 // returns the SWI data as JSON
 
-const searchSWI = async (search) => {
-  // fetch SWI data from database
+import { sql } from '@vercel/postgres'
 
-  return []
+const searchSWI = async (search) => {
+  if (search) {
+    const { rows: swiList } = await sql`select * from swi where name ilike ${
+      '%' + search + '%'
+    } or description ilike ${'%' + search + '%'}`
+
+    return swiList
+  } else {
+    const { rows: swiList } = await sql`select * from swi`
+    return { swiList }
+  }
 }
 
 export default async (req, res) => {
