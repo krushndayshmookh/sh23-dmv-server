@@ -1,4 +1,6 @@
 {
+	"name": "sh23-dmv-server",
+	"type": "module",
 	"dependencies": {
 		"@vercel/postgres": "^0.3.0"
 	}
