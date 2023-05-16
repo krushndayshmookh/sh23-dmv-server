@@ -1,0 +1,17 @@
+POST http://localhost:3000/api/swi/create HTTP/1.1
+Content-Type: application/json
+
+{
+  "name": "SWI 3",
+  "description": "This is the third SWI",
+  "steps": [
+    {
+      "name": "Step 1",
+      "description": "This is the first step"
+    },
+    {
+      "name": "Step 2",
+      "description": "This is the second step"
+    }
+  ]
+}
