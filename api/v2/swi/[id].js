@@ -8,6 +8,10 @@ const getSWI = async (id) => {
     const { rows: swiList } = await sql`select * from swi_json where id = ${id}`
     let swi = swiList[0]
 
+    if (!swi) {
+      return { message: 'No SWI found with that ID.' }
+    }
+
     swi = { id: swi.id, ...swi.json }
 
     return swi
