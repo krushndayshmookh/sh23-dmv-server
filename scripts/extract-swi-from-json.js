@@ -137,9 +137,17 @@ const createSWIData = (json) => {
 
   let tree = makeTree(swiItems)
 
+  const SRKeyIds = Object.keys(ServiceData.modelObjects).filter((key) => {
+    return ServiceData.modelObjects[key].className === 'SSP0ServiceReq'
+  })
+
+  const tc_id = SRKeyIds[0]
+  const SR = ServiceData.modelObjects[tc_id]
+  const name = SR.props.object_string.dbValues[0]
+
   return {
-    tc_id: '',
-    name: '',
+    tc_id,
+    name,
     description: '',
     frequency,
     parts,
