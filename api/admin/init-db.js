@@ -44,6 +44,14 @@ const createDatabase = async () => {
     description text not null,
     swi_id integer references swi(id)
   )`
+
+  await sql`create table if not exists swi_json (
+    id serial primary key,
+    name text ,
+    description text ,
+    json jsonb,
+    tc_id text
+  )`
 }
 
 const clearDatabase = async () => {
