@@ -1,0 +1,385 @@
+{
+  "tc_id": "",
+  "name": "",
+  "description": "",
+  "frequency": "Every 10000 Mileage",
+  "parts": [
+    "064378/A;1-Wheels",
+    "064358/A;1-Brake System"
+  ],
+  "tools": [
+    "000549/A;1-Torque Wrench",
+    "000545/A;1-Jack - Hydraulic",
+    "065239/A;1-Jack Stand",
+    "000548/A;1-Wrench",
+    "000546/A;1-Screw Driver"
+  ],
+  "skills": [
+    "Mechanical Engineer Grade - 2"
+  ],
+  "faultCodes": [],
+  "partApplicability": [],
+  "requiredBy": [],
+  "requires": [],
+  "satisfiedBy": [],
+  "satisfies": [],
+  "swiItems": [
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..3.gdlRxE4BZ1HcSB.gRvRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+      "type": "SSP0WorkCardRevision",
+      "value": "Remove the Wheel",
+      "parentUid": "gBkRxE4BZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..1..gKiRxE4BZ1HcSB.w8nR2cCcZ1HcSB",
+      "type": "MEActivity",
+      "value": "Loosen the lug nuts on the wheel",
+      "parentUid": "SR::N::Swi1WorkInstructionsItem..3.gdlRxE4BZ1HcSB.gRvRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..1..gKpRxE4BZ1HcSB.w8nR2cCcZ1HcSB",
+      "type": "MEActivity",
+      "value": "Jack up the car and place a jack stand under the car's frame",
+      "parentUid": "SR::N::Swi1WorkInstructionsItem..3.gdlRxE4BZ1HcSB.gRvRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..1..gOqRxE4BZ1HcSB.w8nR2cCcZ1HcSB",
+      "type": "MEActivity",
+      "value": "Lower the floor jack so its weight rests on the jack stand",
+      "parentUid": "SR::N::Swi1WorkInstructionsItem..3.gdlRxE4BZ1HcSB.gRvRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..1..gSlRxE4BZ1HcSB.w8nR2cCcZ1HcSB",
+      "type": "MEActivity",
+      "value": "Fully remove the lug nuts",
+      "parentUid": "SR::N::Swi1WorkInstructionsItem..3.gdlRxE4BZ1HcSB.gRvRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..1..gWgRxE4BZ1HcSB.w8nR2cCcZ1HcSB",
+      "type": "MEActivity",
+      "value": "Remove the wheel",
+      "parentUid": "SR::N::Swi1WorkInstructionsItem..3.gdlRxE4BZ1HcSB.gRvRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..3.gxmRxE4BZ1HcSB.gpiRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+      "type": "SSP0WorkCardRevision",
+      "value": "Remove the Brake Pads",
+      "parentUid": "gBkRxE4BZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..1..wOmRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+      "type": "MEActivity",
+      "value": "Turn the steering to have better access to the Caliper",
+      "parentUid": "SR::N::Swi1WorkInstructionsItem..3.gxmRxE4BZ1HcSB.gpiRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..1..wOvRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+      "type": "MEActivity",
+      "value": "Find the two slider bolts that hold the caliper in place",
+      "parentUid": "SR::N::Swi1WorkInstructionsItem..3.gxmRxE4BZ1HcSB.gpiRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..1..wSqRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+      "type": "MEActivity",
+      "value": "Remove the bottom slider bolt",
+      "parentUid": "SR::N::Swi1WorkInstructionsItem..3.gxmRxE4BZ1HcSB.gpiRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..1..wWlRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+      "type": "MEActivity",
+      "value": "Pivot up the Caliper and secure it there",
+      "parentUid": "SR::N::Swi1WorkInstructionsItem..3.gxmRxE4BZ1HcSB.gpiRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..1..wagRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+      "type": "MEActivity",
+      "value": "The brake pads are now exposed and the retaining clips hold them loosely in place",
+      "parentUid": "SR::N::Swi1WorkInstructionsItem..3.gxmRxE4BZ1HcSB.gpiRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..1..weqRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+      "type": "MEActivity",
+      "value": "Remove the retianing clips",
+      "parentUid": "SR::N::Swi1WorkInstructionsItem..3.gxmRxE4BZ1HcSB.gpiRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..1..warRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+      "type": "MEActivity",
+      "value": "Slide the old brake pads out",
+      "parentUid": "SR::N::Swi1WorkInstructionsItem..3.gxmRxE4BZ1HcSB.gpiRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..3.wBtRxE4BZ1HcSB.g5oRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+      "type": "SSP0WorkCardRevision",
+      "value": "Install the new Brake Pads",
+      "parentUid": "gBkRxE4BZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..1..B8nRBNqUZ1HcSB.w8pR2cCcZ1HcSB",
+      "type": "MEActivity",
+      "value": "Slide in the new Brake pads",
+      "parentUid": "SR::N::Swi1WorkInstructionsItem..3.wBtRxE4BZ1HcSB.g5oRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..1..RAgRBNqUZ1HcSB.w8pR2cCcZ1HcSB",
+      "type": "MEActivity",
+      "value": "Attach the retaining clips to secure Brake pds",
+      "parentUid": "SR::N::Swi1WorkInstructionsItem..3.wBtRxE4BZ1HcSB.g5oRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..1..RArRBNqUZ1HcSB.w8pR2cCcZ1HcSB",
+      "type": "MEActivity",
+      "value": "Pivot down the Caliper",
+      "parentUid": "SR::N::Swi1WorkInstructionsItem..3.wBtRxE4BZ1HcSB.g5oRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..1..REmRBNqUZ1HcSB.w8pR2cCcZ1HcSB",
+      "type": "MEActivity",
+      "value": "Screw and Tighten the bottom Slider bolt",
+      "parentUid": "SR::N::Swi1WorkInstructionsItem..3.wBtRxE4BZ1HcSB.g5oRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..3.xUmRBNqUZ1HcSB.xIlRBNqUZ1HcSB.gBkRxE4BZ1HcSB",
+      "type": "SSP0WorkCardRevision",
+      "value": "Install the Wheel",
+      "parentUid": "gBkRxE4BZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..1..xoqRBNqUZ1HcSB.w8qR2cCcZ1HcSB",
+      "type": "MEActivity",
+      "value": "Install the Wheel",
+      "parentUid": "SR::N::Swi1WorkInstructionsItem..3.xUmRBNqUZ1HcSB.xIlRBNqUZ1HcSB.gBkRxE4BZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..1..xshRBNqUZ1HcSB.w8qR2cCcZ1HcSB",
+      "type": "MEActivity",
+      "value": "Secure the Wheel by screwing the Lug Nuts",
+      "parentUid": "SR::N::Swi1WorkInstructionsItem..3.xUmRBNqUZ1HcSB.xIlRBNqUZ1HcSB.gBkRxE4BZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..1..xwrRBNqUZ1HcSB.w8qR2cCcZ1HcSB",
+      "type": "MEActivity",
+      "value": "Jack up the car and remove the Jack stand",
+      "parentUid": "SR::N::Swi1WorkInstructionsItem..3.xUmRBNqUZ1HcSB.xIlRBNqUZ1HcSB.gBkRxE4BZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..1..x4tRBNqUZ1HcSB.w8qR2cCcZ1HcSB",
+      "type": "MEActivity",
+      "value": "Lower the Jack to rest wheel on ground",
+      "parentUid": "SR::N::Swi1WorkInstructionsItem..3.xUmRBNqUZ1HcSB.xIlRBNqUZ1HcSB.gBkRxE4BZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..1..xwgRBNqUZ1HcSB.w8qR2cCcZ1HcSB",
+      "type": "MEActivity",
+      "value": "Tighten the Lug Nuts",
+      "parentUid": "SR::N::Swi1WorkInstructionsItem..3.xUmRBNqUZ1HcSB.xIlRBNqUZ1HcSB.gBkRxE4BZ1HcSB"
+    }
+  ],
+  "safetyItems": [
+    {
+      "value": "Wear Safety Gloves",
+      "description": "To protect hands from any accidental injury, wear standard Safety Gloves."
+    },
+    {
+      "value": "Block the Rear wheels, preventing car from rolling",
+      "description": "-"
+    },
+    {
+      "value": "Wear Safety Gloves",
+      "description": "To protect hands from any accidental injury, wear standard Safety Gloves."
+    },
+    {
+      "value": "Block the Rear wheels, preventing car from rolling",
+      "description": "-"
+    },
+    {
+      "value": "Secure the Cliper to avoid pressure on Brake hose.",
+      "description": "-"
+    },
+    {
+      "value": "Secure the Cliper to avoid pressure on Brake hose.",
+      "description": "-"
+    }
+  ],
+  "tree": [
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..3.gdlRxE4BZ1HcSB.gRvRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+      "type": "SSP0WorkCardRevision",
+      "value": "Remove the Wheel",
+      "parentUid": "gBkRxE4BZ1HcSB",
+      "children": [
+        {
+          "uid": "SR::N::Swi1WorkInstructionsItem..1..gKiRxE4BZ1HcSB.w8nR2cCcZ1HcSB",
+          "type": "MEActivity",
+          "value": "Loosen the lug nuts on the wheel",
+          "parentUid": "SR::N::Swi1WorkInstructionsItem..3.gdlRxE4BZ1HcSB.gRvRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+          "children": []
+        },
+        {
+          "uid": "SR::N::Swi1WorkInstructionsItem..1..gKpRxE4BZ1HcSB.w8nR2cCcZ1HcSB",
+          "type": "MEActivity",
+          "value": "Jack up the car and place a jack stand under the car's frame",
+          "parentUid": "SR::N::Swi1WorkInstructionsItem..3.gdlRxE4BZ1HcSB.gRvRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+          "children": []
+        },
+        {
+          "uid": "SR::N::Swi1WorkInstructionsItem..1..gOqRxE4BZ1HcSB.w8nR2cCcZ1HcSB",
+          "type": "MEActivity",
+          "value": "Lower the floor jack so its weight rests on the jack stand",
+          "parentUid": "SR::N::Swi1WorkInstructionsItem..3.gdlRxE4BZ1HcSB.gRvRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+          "children": []
+        },
+        {
+          "uid": "SR::N::Swi1WorkInstructionsItem..1..gSlRxE4BZ1HcSB.w8nR2cCcZ1HcSB",
+          "type": "MEActivity",
+          "value": "Fully remove the lug nuts",
+          "parentUid": "SR::N::Swi1WorkInstructionsItem..3.gdlRxE4BZ1HcSB.gRvRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+          "children": []
+        },
+        {
+          "uid": "SR::N::Swi1WorkInstructionsItem..1..gWgRxE4BZ1HcSB.w8nR2cCcZ1HcSB",
+          "type": "MEActivity",
+          "value": "Remove the wheel",
+          "parentUid": "SR::N::Swi1WorkInstructionsItem..3.gdlRxE4BZ1HcSB.gRvRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+          "children": []
+        }
+      ]
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..3.gxmRxE4BZ1HcSB.gpiRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+      "type": "SSP0WorkCardRevision",
+      "value": "Remove the Brake Pads",
+      "parentUid": "gBkRxE4BZ1HcSB",
+      "children": [
+        {
+          "uid": "SR::N::Swi1WorkInstructionsItem..1..wOmRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+          "type": "MEActivity",
+          "value": "Turn the steering to have better access to the Caliper",
+          "parentUid": "SR::N::Swi1WorkInstructionsItem..3.gxmRxE4BZ1HcSB.gpiRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+          "children": []
+        },
+        {
+          "uid": "SR::N::Swi1WorkInstructionsItem..1..wOvRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+          "type": "MEActivity",
+          "value": "Find the two slider bolts that hold the caliper in place",
+          "parentUid": "SR::N::Swi1WorkInstructionsItem..3.gxmRxE4BZ1HcSB.gpiRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+          "children": []
+        },
+        {
+          "uid": "SR::N::Swi1WorkInstructionsItem..1..wSqRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+          "type": "MEActivity",
+          "value": "Remove the bottom slider bolt",
+          "parentUid": "SR::N::Swi1WorkInstructionsItem..3.gxmRxE4BZ1HcSB.gpiRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+          "children": []
+        },
+        {
+          "uid": "SR::N::Swi1WorkInstructionsItem..1..wWlRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+          "type": "MEActivity",
+          "value": "Pivot up the Caliper and secure it there",
+          "parentUid": "SR::N::Swi1WorkInstructionsItem..3.gxmRxE4BZ1HcSB.gpiRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+          "children": []
+        },
+        {
+          "uid": "SR::N::Swi1WorkInstructionsItem..1..wagRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+          "type": "MEActivity",
+          "value": "The brake pads are now exposed and the retaining clips hold them loosely in place",
+          "parentUid": "SR::N::Swi1WorkInstructionsItem..3.gxmRxE4BZ1HcSB.gpiRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+          "children": []
+        },
+        {
+          "uid": "SR::N::Swi1WorkInstructionsItem..1..weqRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+          "type": "MEActivity",
+          "value": "Remove the retianing clips",
+          "parentUid": "SR::N::Swi1WorkInstructionsItem..3.gxmRxE4BZ1HcSB.gpiRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+          "children": []
+        },
+        {
+          "uid": "SR::N::Swi1WorkInstructionsItem..1..warRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+          "type": "MEActivity",
+          "value": "Slide the old brake pads out",
+          "parentUid": "SR::N::Swi1WorkInstructionsItem..3.gxmRxE4BZ1HcSB.gpiRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+          "children": []
+        }
+      ]
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..3.wBtRxE4BZ1HcSB.g5oRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+      "type": "SSP0WorkCardRevision",
+      "value": "Install the new Brake Pads",
+      "parentUid": "gBkRxE4BZ1HcSB",
+      "children": [
+        {
+          "uid": "SR::N::Swi1WorkInstructionsItem..1..B8nRBNqUZ1HcSB.w8pR2cCcZ1HcSB",
+          "type": "MEActivity",
+          "value": "Slide in the new Brake pads",
+          "parentUid": "SR::N::Swi1WorkInstructionsItem..3.wBtRxE4BZ1HcSB.g5oRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+          "children": []
+        },
+        {
+          "uid": "SR::N::Swi1WorkInstructionsItem..1..RAgRBNqUZ1HcSB.w8pR2cCcZ1HcSB",
+          "type": "MEActivity",
+          "value": "Attach the retaining clips to secure Brake pds",
+          "parentUid": "SR::N::Swi1WorkInstructionsItem..3.wBtRxE4BZ1HcSB.g5oRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+          "children": []
+        },
+        {
+          "uid": "SR::N::Swi1WorkInstructionsItem..1..RArRBNqUZ1HcSB.w8pR2cCcZ1HcSB",
+          "type": "MEActivity",
+          "value": "Pivot down the Caliper",
+          "parentUid": "SR::N::Swi1WorkInstructionsItem..3.wBtRxE4BZ1HcSB.g5oRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+          "children": []
+        },
+        {
+          "uid": "SR::N::Swi1WorkInstructionsItem..1..REmRBNqUZ1HcSB.w8pR2cCcZ1HcSB",
+          "type": "MEActivity",
+          "value": "Screw and Tighten the bottom Slider bolt",
+          "parentUid": "SR::N::Swi1WorkInstructionsItem..3.wBtRxE4BZ1HcSB.g5oRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+          "children": []
+        }
+      ]
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..3.xUmRBNqUZ1HcSB.xIlRBNqUZ1HcSB.gBkRxE4BZ1HcSB",
+      "type": "SSP0WorkCardRevision",
+      "value": "Install the Wheel",
+      "parentUid": "gBkRxE4BZ1HcSB",
+      "children": [
+        {
+          "uid": "SR::N::Swi1WorkInstructionsItem..1..xoqRBNqUZ1HcSB.w8qR2cCcZ1HcSB",
+          "type": "MEActivity",
+          "value": "Install the Wheel",
+          "parentUid": "SR::N::Swi1WorkInstructionsItem..3.xUmRBNqUZ1HcSB.xIlRBNqUZ1HcSB.gBkRxE4BZ1HcSB",
+          "children": []
+        },
+        {
+          "uid": "SR::N::Swi1WorkInstructionsItem..1..xshRBNqUZ1HcSB.w8qR2cCcZ1HcSB",
+          "type": "MEActivity",
+          "value": "Secure the Wheel by screwing the Lug Nuts",
+          "parentUid": "SR::N::Swi1WorkInstructionsItem..3.xUmRBNqUZ1HcSB.xIlRBNqUZ1HcSB.gBkRxE4BZ1HcSB",
+          "children": []
+        },
+        {
+          "uid": "SR::N::Swi1WorkInstructionsItem..1..xwrRBNqUZ1HcSB.w8qR2cCcZ1HcSB",
+          "type": "MEActivity",
+          "value": "Jack up the car and remove the Jack stand",
+          "parentUid": "SR::N::Swi1WorkInstructionsItem..3.xUmRBNqUZ1HcSB.xIlRBNqUZ1HcSB.gBkRxE4BZ1HcSB",
+          "children": []
+        },
+        {
+          "uid": "SR::N::Swi1WorkInstructionsItem..1..x4tRBNqUZ1HcSB.w8qR2cCcZ1HcSB",
+          "type": "MEActivity",
+          "value": "Lower the Jack to rest wheel on ground",
+          "parentUid": "SR::N::Swi1WorkInstructionsItem..3.xUmRBNqUZ1HcSB.xIlRBNqUZ1HcSB.gBkRxE4BZ1HcSB",
+          "children": []
+        },
+        {
+          "uid": "SR::N::Swi1WorkInstructionsItem..1..xwgRBNqUZ1HcSB.w8qR2cCcZ1HcSB",
+          "type": "MEActivity",
+          "value": "Tighten the Lug Nuts",
+          "parentUid": "SR::N::Swi1WorkInstructionsItem..3.xUmRBNqUZ1HcSB.xIlRBNqUZ1HcSB.gBkRxE4BZ1HcSB",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

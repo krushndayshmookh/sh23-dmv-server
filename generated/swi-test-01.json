@@ -1,0 +1,132 @@
+{
+  "id": "",
+  "name": "",
+  "description": "",
+  "frequency": "Every 1 Years Or When OilPressure > 33",
+  "parts": [
+    "010157/A;1-High Cap Hydraulic System"
+  ],
+  "tools": [
+    "000548/A;1-Wrench",
+    "000546/A;1-Screw Driver",
+    "010196/A;1-Rugs"
+  ],
+  "skills": [
+    "Mechanical Engineer Grade - 2",
+    "Automation Engineer Grade -2"
+  ],
+  "faultCodes": [],
+  "partApplicability": [],
+  "requiredBy": [],
+  "requires": [
+    "Inspect Hydraulic System"
+  ],
+  "satisfiedBy": [],
+  "satisfies": [],
+  "swiItems": [
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..3.xMkJ4VJJZ1HcSB.xEgJ4VJJZ1HcSB.Q7qJ4VJJZ1HcSB",
+      "type": "SSP0WorkCardRevision",
+      "value": "Dis-assemble High-Capacity Hydraulic Controller",
+      "parentUid": "Q7qJ4VJJZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..1..y7gJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+      "type": "MEActivity",
+      "value": "Put on Safety Gloves",
+      "parentUid": "SR::N::Swi1WorkInstructionsItem..3.xMkJ4VJJZ1HcSB.xEgJ4VJJZ1HcSB.Q7qJ4VJJZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..1..y7tJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+      "type": "MEActivity",
+      "value": "Dis-assemble Distributor",
+      "parentUid": "SR::N::Swi1WorkInstructionsItem..3.xMkJ4VJJZ1HcSB.xEgJ4VJJZ1HcSB.Q7qJ4VJJZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..1..y$sJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+      "type": "MEActivity",
+      "value": "Remove Motion Controller",
+      "parentUid": "SR::N::Swi1WorkInstructionsItem..3.xMkJ4VJJZ1HcSB.xEgJ4VJJZ1HcSB.Q7qJ4VJJZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..1..DArJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+      "type": "MEActivity",
+      "value": "Remove Attached Components",
+      "parentUid": "SR::N::Swi1WorkInstructionsItem..3.xMkJ4VJJZ1HcSB.xEgJ4VJJZ1HcSB.Q7qJ4VJJZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..1..DEqJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+      "type": "MEActivity",
+      "value": "Remove Hydraulic Controller",
+      "parentUid": "SR::N::Swi1WorkInstructionsItem..3.xMkJ4VJJZ1HcSB.xEgJ4VJJZ1HcSB.Q7qJ4VJJZ1HcSB"
+    },
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..1..DIpJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+      "type": "MEActivity",
+      "value": "Clean up the area for any Oil leaks",
+      "parentUid": "SR::N::Swi1WorkInstructionsItem..3.xMkJ4VJJZ1HcSB.xEgJ4VJJZ1HcSB.Q7qJ4VJJZ1HcSB"
+    }
+  ],
+  "safetyItems": [
+    {
+      "value": "Wear Safety Gloves",
+      "description": "To protect hands from any accidental injury, wear standard Safety Gloves."
+    },
+    {
+      "value": "Wear Safety Gloves",
+      "description": "To protect hands from any accidental injury, wear standard Safety Gloves."
+    }
+  ],
+  "tree": [
+    {
+      "uid": "SR::N::Swi1WorkInstructionsItem..3.xMkJ4VJJZ1HcSB.xEgJ4VJJZ1HcSB.Q7qJ4VJJZ1HcSB",
+      "type": "SSP0WorkCardRevision",
+      "value": "Dis-assemble High-Capacity Hydraulic Controller",
+      "parentUid": "Q7qJ4VJJZ1HcSB",
+      "children": [
+        {
+          "uid": "SR::N::Swi1WorkInstructionsItem..1..y7gJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+          "type": "MEActivity",
+          "value": "Put on Safety Gloves",
+          "parentUid": "SR::N::Swi1WorkInstructionsItem..3.xMkJ4VJJZ1HcSB.xEgJ4VJJZ1HcSB.Q7qJ4VJJZ1HcSB",
+          "children": []
+        },
+        {
+          "uid": "SR::N::Swi1WorkInstructionsItem..1..y7tJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+          "type": "MEActivity",
+          "value": "Dis-assemble Distributor",
+          "parentUid": "SR::N::Swi1WorkInstructionsItem..3.xMkJ4VJJZ1HcSB.xEgJ4VJJZ1HcSB.Q7qJ4VJJZ1HcSB",
+          "children": []
+        },
+        {
+          "uid": "SR::N::Swi1WorkInstructionsItem..1..y$sJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+          "type": "MEActivity",
+          "value": "Remove Motion Controller",
+          "parentUid": "SR::N::Swi1WorkInstructionsItem..3.xMkJ4VJJZ1HcSB.xEgJ4VJJZ1HcSB.Q7qJ4VJJZ1HcSB",
+          "children": []
+        },
+        {
+          "uid": "SR::N::Swi1WorkInstructionsItem..1..DArJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+          "type": "MEActivity",
+          "value": "Remove Attached Components",
+          "parentUid": "SR::N::Swi1WorkInstructionsItem..3.xMkJ4VJJZ1HcSB.xEgJ4VJJZ1HcSB.Q7qJ4VJJZ1HcSB",
+          "children": []
+        },
+        {
+          "uid": "SR::N::Swi1WorkInstructionsItem..1..DEqJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+          "type": "MEActivity",
+          "value": "Remove Hydraulic Controller",
+          "parentUid": "SR::N::Swi1WorkInstructionsItem..3.xMkJ4VJJZ1HcSB.xEgJ4VJJZ1HcSB.Q7qJ4VJJZ1HcSB",
+          "children": []
+        },
+        {
+          "uid": "SR::N::Swi1WorkInstructionsItem..1..DIpJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+          "type": "MEActivity",
+          "value": "Clean up the area for any Oil leaks",
+          "parentUid": "SR::N::Swi1WorkInstructionsItem..3.xMkJ4VJJZ1HcSB.xEgJ4VJJZ1HcSB.Q7qJ4VJJZ1HcSB",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
