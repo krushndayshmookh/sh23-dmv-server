@@ -12,7 +12,7 @@ const searchSWI = async (search) => {
     return swiList
   } else {
     const { rows: swiList } = await sql`select * from swi`
-    return { swiList }
+    return swiList
   }
 }
 
