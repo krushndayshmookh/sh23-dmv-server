@@ -1,0 +1,3683 @@
+{
+    ".QName": "http://swi1.com/Schemas/Svcworkinstructionsaw/2021-06/SvcWorkInstructionsAw.GetServiceWorkInstructionsResponse2",
+    "output": [
+        {
+            "relatedObjects": {
+                "FaultCode": [],
+                "Frequency": [
+                    {
+                        "uid": "QinRxE4BZ1HcSB",
+                        "className": "SSP0FrequencyRevision",
+                        "type": "SSP0FrequencyRevision"
+                    }
+                ],
+                "PartApplicability": [],
+                "RequiredBy": [],
+                "Requires": [],
+                "SatisfiedBy": [],
+                "Satisfies": []
+            },
+            "swiItems": [
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..2.gdlRxE4BZ1HcSB.RKrJ4VJJZ1HcSB.gBkRxE4BZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..2.gdlRxE4BZ1HcSB.gWvRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..3.gdlRxE4BZ1HcSB.gRvRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..2..RKrJ4VJJZ1HcSB.w8nR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..1..gKiRxE4BZ1HcSB.w8nR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..1..gKpRxE4BZ1HcSB.w8nR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..2..gWvRxE4BZ1HcSB.w8nR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..1..gOqRxE4BZ1HcSB.w8nR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..1..gSlRxE4BZ1HcSB.w8nR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..1..gWgRxE4BZ1HcSB.w8nR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..2.gxmRxE4BZ1HcSB.AHlRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..3.gxmRxE4BZ1HcSB.gpiRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..1..wOmRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..1..wOvRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..1..wSqRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..2..AHlRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..1..wWlRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..1..wagRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..1..weqRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..1..warRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..3.wBtRxE4BZ1HcSB.g5oRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..1..B8nRBNqUZ1HcSB.w8pR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..1..RAgRBNqUZ1HcSB.w8pR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..1..RArRBNqUZ1HcSB.w8pR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..1..REmRBNqUZ1HcSB.w8pR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..3.xUmRBNqUZ1HcSB.xIlRBNqUZ1HcSB.gBkRxE4BZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..1..xoqRBNqUZ1HcSB.w8qR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..1..xshRBNqUZ1HcSB.w8qR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..1..xwrRBNqUZ1HcSB.w8qR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..1..x4tRBNqUZ1HcSB.w8qR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..1..xwgRBNqUZ1HcSB.w8qR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                }
+            ]
+        }
+    ],
+    "ServiceData": {
+        "created": [
+            "SR::N::Swi1WorkInstructionsItem..2.gdlRxE4BZ1HcSB.RKrJ4VJJZ1HcSB.gBkRxE4BZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..2.gdlRxE4BZ1HcSB.gWvRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..3.gdlRxE4BZ1HcSB.gRvRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..2..RKrJ4VJJZ1HcSB.w8nR2cCcZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..1..gKiRxE4BZ1HcSB.w8nR2cCcZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..1..gKpRxE4BZ1HcSB.w8nR2cCcZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..2..gWvRxE4BZ1HcSB.w8nR2cCcZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..1..gOqRxE4BZ1HcSB.w8nR2cCcZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..1..gSlRxE4BZ1HcSB.w8nR2cCcZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..1..gWgRxE4BZ1HcSB.w8nR2cCcZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..2.gxmRxE4BZ1HcSB.AHlRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..3.gxmRxE4BZ1HcSB.gpiRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..1..wOmRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..1..wOvRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..1..wSqRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..2..AHlRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..1..wWlRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..1..wagRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..1..weqRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..1..warRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..3.wBtRxE4BZ1HcSB.g5oRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..1..B8nRBNqUZ1HcSB.w8pR2cCcZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..1..RAgRBNqUZ1HcSB.w8pR2cCcZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..1..RArRBNqUZ1HcSB.w8pR2cCcZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..1..REmRBNqUZ1HcSB.w8pR2cCcZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..3.xUmRBNqUZ1HcSB.xIlRBNqUZ1HcSB.gBkRxE4BZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..1..xoqRBNqUZ1HcSB.w8qR2cCcZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..1..xshRBNqUZ1HcSB.w8qR2cCcZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..1..xwrRBNqUZ1HcSB.w8qR2cCcZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..1..x4tRBNqUZ1HcSB.w8qR2cCcZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..1..xwgRBNqUZ1HcSB.w8qR2cCcZ1HcSB"
+        ],
+        "plain": [
+            "QinRxE4BZ1HcSB"
+        ],
+        "modelObjects": {
+            "SR::N::Swi1WorkInstructionsItem..2.gdlRxE4BZ1HcSB.RKrJ4VJJZ1HcSB.gBkRxE4BZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..2.gdlRxE4BZ1HcSB.RKrJ4VJJZ1HcSB.gBkRxE4BZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "To protect hands from any accidental injury, wear standard Safety Gloves."
+                        ],
+                        "uiValues": [
+                            "To protect hands from any accidental injury, wear standard Safety Gloves."
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Wear Safety Gloves"
+                        ],
+                        "uiValues": [
+                            "Wear Safety Gloves"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "065235-Replace Front Brake Pads"
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1Resources": {},
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {},
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {},
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "RKrJ4VJJZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Wear Safety Gloves"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..2.gdlRxE4BZ1HcSB.gWvRxE4BZ1HcSB.gBkRxE4BZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..2.gdlRxE4BZ1HcSB.gWvRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Block the Rear wheels, preventing car from rolling"
+                        ],
+                        "uiValues": [
+                            "Block the Rear wheels, preventing car from rolling"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "065235-Replace Front Brake Pads"
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1Resources": {},
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {},
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {},
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "gWvRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Block the Rear wheels, preventing car from rolling"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..3.gdlRxE4BZ1HcSB.gRvRxE4BZ1HcSB.gBkRxE4BZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..3.gdlRxE4BZ1HcSB.gRvRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Remove the Wheel"
+                        ],
+                        "uiValues": [
+                            "Remove the Wheel"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "065235-Replace Front Brake Pads"
+                        ]
+                    },
+                    "swi1Parts": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrPart..9.ZUGHWXz98J1uhC.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/FYnRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "064378/A;1-Wheels"
+                        ]
+                    },
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "1020.000000"
+                        ],
+                        "uiValues": [
+                            "1020.000000"
+                        ]
+                    },
+                    "swi1Resources": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrEquipment..9.JA8n9zwq8JV19A.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/QuuRxE4BZ1HcSB..",
+                            "SR::N::Mfg0BvrEquipment..9.Gmf$vfwU8JFLwB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/QyiRxE4BZ1HcSB..",
+                            "SR::N::Mfg0BvrEquipment..9.6XWVFof48JFAZA.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/QymRxE4BZ1HcSB..",
+                            "SR::N::Mfg0BvrPart..9.iPIc6U4W8JlnAB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/wCiRxE4BZ1HcSB..",
+                            "SR::N::Mfg0BvrPart..9.ZUGHWXz98J1uhC.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/FYnRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "000549/A;1-Torque Wrench",
+                            "000545/A;1-Jack - Hydraulic",
+                            "065239/A;1-Jack Stand",
+                            "010188/A;1-Mechanical Engineer Grade - 2",
+                            "064378/A;1-Wheels"
+                        ]
+                    },
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrPart..9.iPIc6U4W8JlnAB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/wCiRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrEquipment..9.JA8n9zwq8JV19A.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/QuuRxE4BZ1HcSB..",
+                            "SR::N::Mfg0BvrEquipment..9.Gmf$vfwU8JFLwB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/QyiRxE4BZ1HcSB..",
+                            "SR::N::Mfg0BvrEquipment..9.6XWVFof48JFAZA.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/QymRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "000549/A;1-Torque Wrench",
+                            "000545/A;1-Jack - Hydraulic",
+                            "065239/A;1-Jack Stand"
+                        ]
+                    },
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "gRvRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "065236/A;1-Remove the Wheel"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..2..RKrJ4VJJZ1HcSB.w8nR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..2..RKrJ4VJJZ1HcSB.w8nR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "To protect hands from any accidental injury, wear standard Safety Gloves."
+                        ],
+                        "uiValues": [
+                            "To protect hands from any accidental injury, wear standard Safety Gloves."
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Wear Safety Gloves"
+                        ],
+                        "uiValues": [
+                            "Wear Safety Gloves"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.gdlRxE4BZ1HcSB.gRvRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1Resources": {},
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {},
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {},
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "RKrJ4VJJZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Wear Safety Gloves"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..1..gKiRxE4BZ1HcSB.w8nR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..1..gKiRxE4BZ1HcSB.w8nR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Loosen the lug nuts on the wheel"
+                        ],
+                        "uiValues": [
+                            "Loosen the lug nuts on the wheel"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.gdlRxE4BZ1HcSB.gRvRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "120.000000"
+                        ],
+                        "uiValues": [
+                            "120.000000"
+                        ]
+                    },
+                    "swi1Resources": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrEquipment..9.JA8n9zwq8JV19A.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/QuuRxE4BZ1HcSB..",
+                            "SR::N::Mfg0BvrPart..9.iPIc6U4W8JlnAB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/wCiRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "000549/A;1-Torque Wrench",
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrPart..9.iPIc6U4W8JlnAB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/wCiRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrEquipment..9.JA8n9zwq8JV19A.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/QuuRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "000549/A;1-Torque Wrench"
+                        ]
+                    },
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "gKiRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Loosen the lug nuts on the wheel"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..1..gKpRxE4BZ1HcSB.w8nR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..1..gKpRxE4BZ1HcSB.w8nR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Jack up the car and place a jack stand under the car's frame"
+                        ],
+                        "uiValues": [
+                            "Jack up the car and place a jack stand under the car's frame"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.gdlRxE4BZ1HcSB.gRvRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "300.000000"
+                        ],
+                        "uiValues": [
+                            "300.000000"
+                        ]
+                    },
+                    "swi1Resources": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrEquipment..9.Gmf$vfwU8JFLwB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/QyiRxE4BZ1HcSB..",
+                            "SR::N::Mfg0BvrEquipment..9.6XWVFof48JFAZA.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/QymRxE4BZ1HcSB..",
+                            "SR::N::Mfg0BvrPart..9.iPIc6U4W8JlnAB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/wCiRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "000545/A;1-Jack - Hydraulic",
+                            "065239/A;1-Jack Stand",
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrPart..9.iPIc6U4W8JlnAB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/wCiRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrEquipment..9.Gmf$vfwU8JFLwB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/QyiRxE4BZ1HcSB..",
+                            "SR::N::Mfg0BvrEquipment..9.6XWVFof48JFAZA.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/QymRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "000545/A;1-Jack - Hydraulic",
+                            "065239/A;1-Jack Stand"
+                        ]
+                    },
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "gKpRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Jack up the car and place a jack stand under the car's frame"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..2..gWvRxE4BZ1HcSB.w8nR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..2..gWvRxE4BZ1HcSB.w8nR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Block the Rear wheels, preventing car from rolling"
+                        ],
+                        "uiValues": [
+                            "Block the Rear wheels, preventing car from rolling"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.gdlRxE4BZ1HcSB.gRvRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1Resources": {},
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {},
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {},
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "gWvRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Block the Rear wheels, preventing car from rolling"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..1..gOqRxE4BZ1HcSB.w8nR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..1..gOqRxE4BZ1HcSB.w8nR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Lower the floor jack so its weight rests on the jack stand"
+                        ],
+                        "uiValues": [
+                            "Lower the floor jack so its weight rests on the jack stand"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.gdlRxE4BZ1HcSB.gRvRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "300.000000"
+                        ],
+                        "uiValues": [
+                            "300.000000"
+                        ]
+                    },
+                    "swi1Resources": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrEquipment..9.Gmf$vfwU8JFLwB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/QyiRxE4BZ1HcSB..",
+                            "SR::N::Mfg0BvrEquipment..9.6XWVFof48JFAZA.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/QymRxE4BZ1HcSB..",
+                            "SR::N::Mfg0BvrPart..9.iPIc6U4W8JlnAB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/wCiRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "000545/A;1-Jack - Hydraulic",
+                            "065239/A;1-Jack Stand",
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrPart..9.iPIc6U4W8JlnAB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/wCiRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrEquipment..9.Gmf$vfwU8JFLwB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/QyiRxE4BZ1HcSB..",
+                            "SR::N::Mfg0BvrEquipment..9.6XWVFof48JFAZA.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/QymRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "000545/A;1-Jack - Hydraulic",
+                            "065239/A;1-Jack Stand"
+                        ]
+                    },
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "gOqRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Lower the floor jack so its weight rests on the jack stand"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..1..gSlRxE4BZ1HcSB.w8nR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..1..gSlRxE4BZ1HcSB.w8nR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Fully remove the lug nuts"
+                        ],
+                        "uiValues": [
+                            "Fully remove the lug nuts"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.gdlRxE4BZ1HcSB.gRvRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "120.000000"
+                        ],
+                        "uiValues": [
+                            "120.000000"
+                        ]
+                    },
+                    "swi1Resources": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrEquipment..9.JA8n9zwq8JV19A.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/QuuRxE4BZ1HcSB..",
+                            "SR::N::Mfg0BvrPart..9.iPIc6U4W8JlnAB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/wCiRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "000549/A;1-Torque Wrench",
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrPart..9.iPIc6U4W8JlnAB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/wCiRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrEquipment..9.JA8n9zwq8JV19A.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/QuuRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "000549/A;1-Torque Wrench"
+                        ]
+                    },
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "gSlRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Fully remove the lug nuts"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..1..gWgRxE4BZ1HcSB.w8nR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..1..gWgRxE4BZ1HcSB.w8nR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Remove the wheel"
+                        ],
+                        "uiValues": [
+                            "Remove the wheel"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.gdlRxE4BZ1HcSB.gRvRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "180.000000"
+                        ],
+                        "uiValues": [
+                            "180.000000"
+                        ]
+                    },
+                    "swi1Resources": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrPart..9.iPIc6U4W8JlnAB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/wCiRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrPart..9.iPIc6U4W8JlnAB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/wCiRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {},
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "gWgRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Remove the wheel"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..2.gxmRxE4BZ1HcSB.AHlRxE4BZ1HcSB.gBkRxE4BZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..2.gxmRxE4BZ1HcSB.AHlRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Secure the Cliper to avoid pressure on Brake hose."
+                        ],
+                        "uiValues": [
+                            "Secure the Cliper to avoid pressure on Brake hose."
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "065235-Replace Front Brake Pads"
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1Resources": {},
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {},
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {},
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "AHlRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Secure the Cliper to avoid pressure on Brake hose."
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..3.gxmRxE4BZ1HcSB.gpiRxE4BZ1HcSB.gBkRxE4BZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..3.gxmRxE4BZ1HcSB.gpiRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Remove the Brake Pads"
+                        ],
+                        "uiValues": [
+                            "Remove the Brake Pads"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "065235-Replace Front Brake Pads"
+                        ]
+                    },
+                    "swi1Parts": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrPart..9.4KGVsFh48J1njC.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/wVjRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "064358/A;1-Brake System"
+                        ]
+                    },
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "900.000000"
+                        ],
+                        "uiValues": [
+                            "900.000000"
+                        ]
+                    },
+                    "swi1Resources": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrPart..9.4KGVsFh48J1njC.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/wVjRxE4BZ1HcSB..",
+                            "SR::N::Mfg0BvrEquipment..9.51P8frlU8JFxdA.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/Q2qRxE4BZ1HcSB..",
+                            "SR::N::Mfg0BvrEquipment..9.BOIn8K808JV3UB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/Q2uRxE4BZ1HcSB..",
+                            "SR::N::Mfg0BvrEquipment..9.ugTedBur8J1YxA.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/Q6iRxE4BZ1HcSB..",
+                            "SR::N::Mfg0BvrPart..9.ZwthcBO58J1PLD.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/wupRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "064358/A;1-Brake System",
+                            "000548/A;1-Wrench",
+                            "000549/A;1-Torque Wrench",
+                            "000546/A;1-Screw Driver",
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrPart..9.ZwthcBO58J1PLD.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/wupRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrEquipment..9.51P8frlU8JFxdA.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/Q2qRxE4BZ1HcSB..",
+                            "SR::N::Mfg0BvrEquipment..9.BOIn8K808JV3UB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/Q2uRxE4BZ1HcSB..",
+                            "SR::N::Mfg0BvrEquipment..9.ugTedBur8J1YxA.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/Q6iRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "000548/A;1-Wrench",
+                            "000549/A;1-Torque Wrench",
+                            "000546/A;1-Screw Driver"
+                        ]
+                    },
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "gpiRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "065237/A;1-Remove the Brake Pads"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..1..wOmRxE4BZ1HcSB.w8oR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..1..wOmRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Turn the steering to have better access to the Caliper"
+                        ],
+                        "uiValues": [
+                            "Turn the steering to have better access to the Caliper"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.gxmRxE4BZ1HcSB.gpiRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "120.000000"
+                        ],
+                        "uiValues": [
+                            "120.000000"
+                        ]
+                    },
+                    "swi1Resources": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrPart..9.ZwthcBO58J1PLD.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/wupRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrPart..9.ZwthcBO58J1PLD.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/wupRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {},
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "wOmRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Turn the steering to have better access to the Caliper"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..1..wOvRxE4BZ1HcSB.w8oR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..1..wOvRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Find the two slider bolts that hold the caliper in place"
+                        ],
+                        "uiValues": [
+                            "Find the two slider bolts that hold the caliper in place"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.gxmRxE4BZ1HcSB.gpiRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "180.000000"
+                        ],
+                        "uiValues": [
+                            "180.000000"
+                        ]
+                    },
+                    "swi1Resources": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrPart..9.ZwthcBO58J1PLD.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/wupRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrPart..9.ZwthcBO58J1PLD.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/wupRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {},
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "wOvRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Find the two slider bolts that hold the caliper in place"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..1..wSqRxE4BZ1HcSB.w8oR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..1..wSqRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Remove the bottom slider bolt"
+                        ],
+                        "uiValues": [
+                            "Remove the bottom slider bolt"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.gxmRxE4BZ1HcSB.gpiRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "120.000000"
+                        ],
+                        "uiValues": [
+                            "120.000000"
+                        ]
+                    },
+                    "swi1Resources": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrPart..9.ZwthcBO58J1PLD.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/wupRxE4BZ1HcSB..",
+                            "SR::N::Mfg0BvrEquipment..9.51P8frlU8JFxdA.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/Q2qRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2",
+                            "000548/A;1-Wrench"
+                        ]
+                    },
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrPart..9.ZwthcBO58J1PLD.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/wupRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrEquipment..9.51P8frlU8JFxdA.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/Q2qRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "000548/A;1-Wrench"
+                        ]
+                    },
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "wSqRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Remove the bottom slider bolt"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..2..AHlRxE4BZ1HcSB.w8oR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..2..AHlRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Secure the Cliper to avoid pressure on Brake hose."
+                        ],
+                        "uiValues": [
+                            "Secure the Cliper to avoid pressure on Brake hose."
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.gxmRxE4BZ1HcSB.gpiRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1Resources": {},
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {},
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {},
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "AHlRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Secure the Cliper to avoid pressure on Brake hose."
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..1..wWlRxE4BZ1HcSB.w8oR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..1..wWlRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Pivot up the Caliper and secure it there"
+                        ],
+                        "uiValues": [
+                            "Pivot up the Caliper and secure it there"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.gxmRxE4BZ1HcSB.gpiRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "300.000000"
+                        ],
+                        "uiValues": [
+                            "300.000000"
+                        ]
+                    },
+                    "swi1Resources": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrPart..9.ZwthcBO58J1PLD.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/wupRxE4BZ1HcSB..",
+                            "SR::N::Mfg0BvrEquipment..9.ugTedBur8J1YxA.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/Q6iRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2",
+                            "000546/A;1-Screw Driver"
+                        ]
+                    },
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrPart..9.ZwthcBO58J1PLD.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/wupRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrEquipment..9.ugTedBur8J1YxA.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/Q6iRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "000546/A;1-Screw Driver"
+                        ]
+                    },
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "wWlRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Pivot up the Caliper and secure it there"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..1..wagRxE4BZ1HcSB.w8oR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..1..wagRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "The brake pads are now exposed and the retaining clips hold them loosely in place"
+                        ],
+                        "uiValues": [
+                            "The brake pads are now exposed and the retaining clips hold them loosely in place"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.gxmRxE4BZ1HcSB.gpiRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "60.000000"
+                        ],
+                        "uiValues": [
+                            "60.000000"
+                        ]
+                    },
+                    "swi1Resources": {},
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {},
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {},
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "wagRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "The brake pads are now exposed and the retaining clips hold them loosely in place"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..1..weqRxE4BZ1HcSB.w8oR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..1..weqRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Remove the retianing clips"
+                        ],
+                        "uiValues": [
+                            "Remove the retianing clips"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.gxmRxE4BZ1HcSB.gpiRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "60.000000"
+                        ],
+                        "uiValues": [
+                            "60.000000"
+                        ]
+                    },
+                    "swi1Resources": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrPart..9.ZwthcBO58J1PLD.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/wupRxE4BZ1HcSB..",
+                            "SR::N::Mfg0BvrEquipment..9.ugTedBur8J1YxA.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/Q6iRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2",
+                            "000546/A;1-Screw Driver"
+                        ]
+                    },
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrPart..9.ZwthcBO58J1PLD.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/wupRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrEquipment..9.ugTedBur8J1YxA.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/Q6iRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "000546/A;1-Screw Driver"
+                        ]
+                    },
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "weqRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Remove the retianing clips"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..1..warRxE4BZ1HcSB.w8oR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..1..warRxE4BZ1HcSB.w8oR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Slide the old brake pads out"
+                        ],
+                        "uiValues": [
+                            "Slide the old brake pads out"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.gxmRxE4BZ1HcSB.gpiRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "60.000000"
+                        ],
+                        "uiValues": [
+                            "60.000000"
+                        ]
+                    },
+                    "swi1Resources": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrPart..9.ZwthcBO58J1PLD.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/wupRxE4BZ1HcSB..",
+                            "SR::N::Mfg0BvrEquipment..9.ugTedBur8J1YxA.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/Q6iRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2",
+                            "000546/A;1-Screw Driver"
+                        ]
+                    },
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrPart..9.ZwthcBO58J1PLD.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/wupRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrEquipment..9.ugTedBur8J1YxA.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/Q6iRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "000546/A;1-Screw Driver"
+                        ]
+                    },
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "warRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Slide the old brake pads out"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..3.wBtRxE4BZ1HcSB.g5oRxE4BZ1HcSB.gBkRxE4BZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..3.wBtRxE4BZ1HcSB.g5oRxE4BZ1HcSB.gBkRxE4BZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Install the new Brake Pads"
+                        ],
+                        "uiValues": [
+                            "Install the new Brake Pads"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "065235-Replace Front Brake Pads"
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "570.000000"
+                        ],
+                        "uiValues": [
+                            "570.000000"
+                        ]
+                    },
+                    "swi1Resources": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrEquipment..9.U9qTh6Ss8JVFHD.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_wBtRxE4BZ1HcSB/gCnRxE4BZ1HcSB..",
+                            "SR::N::Mfg0BvrEquipment..9.o1v9z4w38J11FC.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_wBtRxE4BZ1HcSB/gCrRxE4BZ1HcSB..",
+                            "SR::N::Mfg0BvrEquipment..9.KcVW2alw8JlrqC.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_wBtRxE4BZ1HcSB/gCvRxE4BZ1HcSB..",
+                            "SR::N::Mfg0BvrPart..9.ikvoGZpo8JFWkC.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_wBtRxE4BZ1HcSB/ALnRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "000548/A;1-Wrench",
+                            "000549/A;1-Torque Wrench",
+                            "000546/A;1-Screw Driver",
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrPart..9.ikvoGZpo8JFWkC.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_wBtRxE4BZ1HcSB/ALnRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrEquipment..9.U9qTh6Ss8JVFHD.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_wBtRxE4BZ1HcSB/gCnRxE4BZ1HcSB..",
+                            "SR::N::Mfg0BvrEquipment..9.o1v9z4w38J11FC.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_wBtRxE4BZ1HcSB/gCrRxE4BZ1HcSB..",
+                            "SR::N::Mfg0BvrEquipment..9.KcVW2alw8JlrqC.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_wBtRxE4BZ1HcSB/gCvRxE4BZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "000548/A;1-Wrench",
+                            "000549/A;1-Torque Wrench",
+                            "000546/A;1-Screw Driver"
+                        ]
+                    },
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "g5oRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "065238/A;1-Install the new Brake Pads"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..1..B8nRBNqUZ1HcSB.w8pR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..1..B8nRBNqUZ1HcSB.w8pR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Slide in the new Brake pads"
+                        ],
+                        "uiValues": [
+                            "Slide in the new Brake pads"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.wBtRxE4BZ1HcSB.g5oRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "120.000000"
+                        ],
+                        "uiValues": [
+                            "120.000000"
+                        ]
+                    },
+                    "swi1Resources": {},
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {},
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {},
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "B8nRBNqUZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Slide in the new Brake pads"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..1..RAgRBNqUZ1HcSB.w8pR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..1..RAgRBNqUZ1HcSB.w8pR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Attach the retaining clips to secure Brake pds"
+                        ],
+                        "uiValues": [
+                            "Attach the retaining clips to secure Brake pds"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.wBtRxE4BZ1HcSB.g5oRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "120.000000"
+                        ],
+                        "uiValues": [
+                            "120.000000"
+                        ]
+                    },
+                    "swi1Resources": {},
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {},
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {},
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "RAgRBNqUZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Attach the retaining clips to secure Brake pds"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..1..RArRBNqUZ1HcSB.w8pR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..1..RArRBNqUZ1HcSB.w8pR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Pivot down the Caliper"
+                        ],
+                        "uiValues": [
+                            "Pivot down the Caliper"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.wBtRxE4BZ1HcSB.g5oRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "30.000000"
+                        ],
+                        "uiValues": [
+                            "30.000000"
+                        ]
+                    },
+                    "swi1Resources": {},
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {},
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {},
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "RArRBNqUZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Pivot down the Caliper"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..1..REmRBNqUZ1HcSB.w8pR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..1..REmRBNqUZ1HcSB.w8pR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Screw and Tighten the bottom Slider bolt"
+                        ],
+                        "uiValues": [
+                            "Screw and Tighten the bottom Slider bolt"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.wBtRxE4BZ1HcSB.g5oRxE4BZ1HcSB.gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "300.000000"
+                        ],
+                        "uiValues": [
+                            "300.000000"
+                        ]
+                    },
+                    "swi1Resources": {},
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {},
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {},
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "REmRBNqUZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Screw and Tighten the bottom Slider bolt"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..3.xUmRBNqUZ1HcSB.xIlRBNqUZ1HcSB.gBkRxE4BZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..3.xUmRBNqUZ1HcSB.xIlRBNqUZ1HcSB.gBkRxE4BZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Install the Wheel"
+                        ],
+                        "uiValues": [
+                            "Install the Wheel"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "065235-Replace Front Brake Pads"
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "1020.000000"
+                        ],
+                        "uiValues": [
+                            "1020.000000"
+                        ]
+                    },
+                    "swi1Resources": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrEquipment..9.uVHMREy38JVFeD.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_xUmRBNqUZ1HcSB/xgmRBNqUZ1HcSB..",
+                            "SR::N::Mfg0BvrEquipment..9.8rik$8g38JVqcC.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_xUmRBNqUZ1HcSB/xgqRBNqUZ1HcSB..",
+                            "SR::N::Mfg0BvrEquipment..9.UliKApJk8JFLwB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_xUmRBNqUZ1HcSB/xguRBNqUZ1HcSB..",
+                            "SR::N::Mfg0BvrPart..9.4Phqz0j_8J1BjD.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_xUmRBNqUZ1HcSB/xkiRBNqUZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "000549/A;1-Torque Wrench",
+                            "000545/A;1-Jack - Hydraulic",
+                            "065239/A;1-Jack Stand",
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrPart..9.4Phqz0j_8J1BjD.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_xUmRBNqUZ1HcSB/xkiRBNqUZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrEquipment..9.uVHMREy38JVFeD.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_xUmRBNqUZ1HcSB/xgmRBNqUZ1HcSB..",
+                            "SR::N::Mfg0BvrEquipment..9.8rik$8g38JVqcC.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_xUmRBNqUZ1HcSB/xgqRBNqUZ1HcSB..",
+                            "SR::N::Mfg0BvrEquipment..9.UliKApJk8JFLwB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_xUmRBNqUZ1HcSB/xguRBNqUZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "000549/A;1-Torque Wrench",
+                            "000545/A;1-Jack - Hydraulic",
+                            "065239/A;1-Jack Stand"
+                        ]
+                    },
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "xIlRBNqUZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "065241/A;1-Install the Wheel"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..1..xoqRBNqUZ1HcSB.w8qR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..1..xoqRBNqUZ1HcSB.w8qR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Install the Wheel"
+                        ],
+                        "uiValues": [
+                            "Install the Wheel"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.xUmRBNqUZ1HcSB.xIlRBNqUZ1HcSB.gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "300.000000"
+                        ],
+                        "uiValues": [
+                            "300.000000"
+                        ]
+                    },
+                    "swi1Resources": {},
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {},
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {},
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "xoqRBNqUZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Install the Wheel"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..1..xshRBNqUZ1HcSB.w8qR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..1..xshRBNqUZ1HcSB.w8qR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Secure the Wheel by screwing the Lug Nuts"
+                        ],
+                        "uiValues": [
+                            "Secure the Wheel by screwing the Lug Nuts"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.xUmRBNqUZ1HcSB.xIlRBNqUZ1HcSB.gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "120.000000"
+                        ],
+                        "uiValues": [
+                            "120.000000"
+                        ]
+                    },
+                    "swi1Resources": {},
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {},
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {},
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "xshRBNqUZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Secure the Wheel by screwing the Lug Nuts"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..1..xwrRBNqUZ1HcSB.w8qR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..1..xwrRBNqUZ1HcSB.w8qR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Jack up the car and remove the Jack stand"
+                        ],
+                        "uiValues": [
+                            "Jack up the car and remove the Jack stand"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.xUmRBNqUZ1HcSB.xIlRBNqUZ1HcSB.gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "300.000000"
+                        ],
+                        "uiValues": [
+                            "300.000000"
+                        ]
+                    },
+                    "swi1Resources": {},
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {},
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {},
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "xwrRBNqUZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Jack up the car and remove the Jack stand"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..1..x4tRBNqUZ1HcSB.w8qR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..1..x4tRBNqUZ1HcSB.w8qR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Lower the Jack to rest wheel on ground"
+                        ],
+                        "uiValues": [
+                            "Lower the Jack to rest wheel on ground"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.xUmRBNqUZ1HcSB.xIlRBNqUZ1HcSB.gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "180.000000"
+                        ],
+                        "uiValues": [
+                            "180.000000"
+                        ]
+                    },
+                    "swi1Resources": {},
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {},
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {},
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "x4tRBNqUZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Lower the Jack to rest wheel on ground"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..1..xwgRBNqUZ1HcSB.w8qR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..1..xwgRBNqUZ1HcSB.w8qR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Tighten the Lug Nuts"
+                        ],
+                        "uiValues": [
+                            "Tighten the Lug Nuts"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.xUmRBNqUZ1HcSB.xIlRBNqUZ1HcSB.gBkRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "120.000000"
+                        ],
+                        "uiValues": [
+                            "120.000000"
+                        ]
+                    },
+                    "swi1Resources": {},
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {},
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {},
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "xwgRBNqUZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Tighten the Lug Nuts"
+                        ]
+                    }
+                }
+            },
+            "QinRxE4BZ1HcSB": {
+                "objectID": "QinRxE4BZ1HcSB",
+                "uid": "QinRxE4BZ1HcSB",
+                "className": "SSP0FrequencyRevision",
+                "type": "SSP0FrequencyRevision",
+                "props": {
+                    "ssp0FrequencyExpression": {
+                        "dbValues": [
+                            "Every 10000 Mileage"
+                        ],
+                        "uiValues": [
+                            "Every 10000 Mileage"
+                        ]
+                    }
+                }
+            },
+            "gBkRxE4BZ1HcSB": {
+                "objectID": "gBkRxE4BZ1HcSB",
+                "uid": "gBkRxE4BZ1HcSB",
+                "className": "SSP0ServiceReq",
+                "type": "SSP0ServiceReq",
+                "props": {
+                    "object_string": {
+                        "dbValues": [
+                            "065235-Replace Front Brake Pads"
+                        ],
+                        "uiValues": [
+                            "065235-Replace Front Brake Pads"
+                        ]
+                    },
+                    "revision_list": {
+                        "dbValues": [
+                            "gBsRxE4BZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "065235/A;1-Replace Front Brake Pads"
+                        ]
+                    }
+                }
+            },
+            "RKrJ4VJJZ1HcSB": {
+                "objectID": "RKrJ4VJJZ1HcSB",
+                "uid": "RKrJ4VJJZ1HcSB",
+                "className": "Smr0Warning",
+                "type": "Smr0Warning",
+                "props": {
+                    "smr0warningType": {
+                        "dbValues": [
+                            "Smr0Caution"
+                        ],
+                        "uiValues": [
+                            "Caution"
+                        ]
+                    }
+                }
+            },
+            "gWvRxE4BZ1HcSB": {
+                "objectID": "gWvRxE4BZ1HcSB",
+                "uid": "gWvRxE4BZ1HcSB",
+                "className": "Smr0Warning",
+                "type": "Smr0Warning",
+                "props": {
+                    "smr0warningType": {
+                        "dbValues": [
+                            "Smr0Caution"
+                        ],
+                        "uiValues": [
+                            "Caution"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Mfg0BvrPart..9.ZUGHWXz98J1uhC.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/FYnRxE4BZ1HcSB..": {
+                "uid": "SR::N::Mfg0BvrPart..9.ZUGHWXz98J1uhC.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/FYnRxE4BZ1HcSB..",
+                "className": "ImanItemBOPLine",
+                "type": "Mfg0BvrPart",
+                "props": {
+                    "bl_item_item_id": {
+                        "dbValues": [
+                            "064378"
+                        ],
+                        "uiValues": [
+                            "064378"
+                        ]
+                    },
+                    "bl_item_object_desc": {
+                        "dbValues": [
+                            " EROD Product Data"
+                        ],
+                        "uiValues": [
+                            " EROD Product Data"
+                        ]
+                    },
+                    "bl_line_name": {
+                        "dbValues": [
+                            "064378/A;1-Wheels"
+                        ],
+                        "uiValues": [
+                            "064378/A;1-Wheels"
+                        ]
+                    },
+                    "bl_occ_type": {
+                        "dbValues": [
+                            "MEDisassemble"
+                        ],
+                        "uiValues": [
+                            "MEDisassemble"
+                        ]
+                    },
+                    "bl_occurrence_name": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "bl_quantity": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_rev_item_revision_id": {
+                        "dbValues": [
+                            "A"
+                        ],
+                        "uiValues": [
+                            "A"
+                        ]
+                    },
+                    "bl_rev_object_name": {
+                        "dbValues": [
+                            "Wheels"
+                        ],
+                        "uiValues": [
+                            "Wheels"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Mfg0BvrEquipment..9.JA8n9zwq8JV19A.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/QuuRxE4BZ1HcSB..": {
+                "uid": "SR::N::Mfg0BvrEquipment..9.JA8n9zwq8JV19A.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/QuuRxE4BZ1HcSB..",
+                "className": "ImanItemBOPLine",
+                "type": "Mfg0BvrEquipment",
+                "props": {
+                    "bl_item_item_id": {
+                        "dbValues": [
+                            "000549"
+                        ],
+                        "uiValues": [
+                            "000549"
+                        ]
+                    },
+                    "bl_item_object_desc": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_line_name": {
+                        "dbValues": [
+                            "000549/A;1-Torque Wrench"
+                        ],
+                        "uiValues": [
+                            "000549/A;1-Torque Wrench"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Mfg0BvrEquipment..9.Gmf$vfwU8JFLwB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/QyiRxE4BZ1HcSB..": {
+                "uid": "SR::N::Mfg0BvrEquipment..9.Gmf$vfwU8JFLwB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/QyiRxE4BZ1HcSB..",
+                "className": "ImanItemBOPLine",
+                "type": "Mfg0BvrEquipment",
+                "props": {
+                    "bl_item_item_id": {
+                        "dbValues": [
+                            "000545"
+                        ],
+                        "uiValues": [
+                            "000545"
+                        ]
+                    },
+                    "bl_item_object_desc": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_line_name": {
+                        "dbValues": [
+                            "000545/A;1-Jack - Hydraulic"
+                        ],
+                        "uiValues": [
+                            "000545/A;1-Jack - Hydraulic"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Mfg0BvrEquipment..9.6XWVFof48JFAZA.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/QymRxE4BZ1HcSB..": {
+                "uid": "SR::N::Mfg0BvrEquipment..9.6XWVFof48JFAZA.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/QymRxE4BZ1HcSB..",
+                "className": "ImanItemBOPLine",
+                "type": "Mfg0BvrEquipment",
+                "props": {
+                    "bl_item_item_id": {
+                        "dbValues": [
+                            "065239"
+                        ],
+                        "uiValues": [
+                            "065239"
+                        ]
+                    },
+                    "bl_item_object_desc": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_line_name": {
+                        "dbValues": [
+                            "065239/A;1-Jack Stand"
+                        ],
+                        "uiValues": [
+                            "065239/A;1-Jack Stand"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Mfg0BvrPart..9.iPIc6U4W8JlnAB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/wCiRxE4BZ1HcSB..": {
+                "uid": "SR::N::Mfg0BvrPart..9.iPIc6U4W8JlnAB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gdlRxE4BZ1HcSB/wCiRxE4BZ1HcSB..",
+                "className": "ImanItemBOPLine",
+                "type": "Mfg0BvrPart",
+                "props": {
+                    "bl_item_item_id": {
+                        "dbValues": [
+                            "010188"
+                        ],
+                        "uiValues": [
+                            "010188"
+                        ]
+                    },
+                    "bl_item_object_desc": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_line_name": {
+                        "dbValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ],
+                        "uiValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "bl_occ_type": {
+                        "dbValues": [
+                            "SSP0RequiredSkill"
+                        ],
+                        "uiValues": [
+                            "Required Skill"
+                        ]
+                    },
+                    "bl_occurrence_name": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "bl_quantity": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_rev_item_revision_id": {
+                        "dbValues": [
+                            "A"
+                        ],
+                        "uiValues": [
+                            "A"
+                        ]
+                    },
+                    "bl_rev_object_name": {
+                        "dbValues": [
+                            "Mechanical Engineer Grade - 2"
+                        ],
+                        "uiValues": [
+                            "Mechanical Engineer Grade - 2"
+                        ]
+                    }
+                }
+            },
+            "gRvRxE4BZ1HcSB": {
+                "objectID": "gRvRxE4BZ1HcSB",
+                "uid": "gRvRxE4BZ1HcSB",
+                "className": "SSP0WorkCardRevision",
+                "type": "SSP0WorkCardRevision",
+                "props": {}
+            },
+            "gKiRxE4BZ1HcSB": {
+                "objectID": "gKiRxE4BZ1HcSB",
+                "uid": "gKiRxE4BZ1HcSB",
+                "className": "MEActivity",
+                "type": "MEActivity",
+                "props": {}
+            },
+            "gKpRxE4BZ1HcSB": {
+                "objectID": "gKpRxE4BZ1HcSB",
+                "uid": "gKpRxE4BZ1HcSB",
+                "className": "MEActivity",
+                "type": "MEActivity",
+                "props": {}
+            },
+            "gOqRxE4BZ1HcSB": {
+                "objectID": "gOqRxE4BZ1HcSB",
+                "uid": "gOqRxE4BZ1HcSB",
+                "className": "MEActivity",
+                "type": "MEActivity",
+                "props": {}
+            },
+            "gSlRxE4BZ1HcSB": {
+                "objectID": "gSlRxE4BZ1HcSB",
+                "uid": "gSlRxE4BZ1HcSB",
+                "className": "MEActivity",
+                "type": "MEActivity",
+                "props": {}
+            },
+            "gWgRxE4BZ1HcSB": {
+                "objectID": "gWgRxE4BZ1HcSB",
+                "uid": "gWgRxE4BZ1HcSB",
+                "className": "MEActivity",
+                "type": "MEActivity",
+                "props": {}
+            },
+            "AHlRxE4BZ1HcSB": {
+                "objectID": "AHlRxE4BZ1HcSB",
+                "uid": "AHlRxE4BZ1HcSB",
+                "className": "Smr0Warning",
+                "type": "Smr0Warning",
+                "props": {
+                    "smr0warningType": {
+                        "dbValues": [
+                            "Smr0Caution"
+                        ],
+                        "uiValues": [
+                            "Caution"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Mfg0BvrPart..9.4KGVsFh48J1njC.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/wVjRxE4BZ1HcSB..": {
+                "uid": "SR::N::Mfg0BvrPart..9.4KGVsFh48J1njC.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/wVjRxE4BZ1HcSB..",
+                "className": "ImanItemBOPLine",
+                "type": "Mfg0BvrPart",
+                "props": {
+                    "bl_item_item_id": {
+                        "dbValues": [
+                            "064358"
+                        ],
+                        "uiValues": [
+                            "064358"
+                        ]
+                    },
+                    "bl_item_object_desc": {
+                        "dbValues": [
+                            " EROD Product Data"
+                        ],
+                        "uiValues": [
+                            " EROD Product Data"
+                        ]
+                    },
+                    "bl_line_name": {
+                        "dbValues": [
+                            "064358/A;1-Brake System"
+                        ],
+                        "uiValues": [
+                            "064358/A;1-Brake System"
+                        ]
+                    },
+                    "bl_occ_type": {
+                        "dbValues": [
+                            "MEDisassemble"
+                        ],
+                        "uiValues": [
+                            "MEDisassemble"
+                        ]
+                    },
+                    "bl_occurrence_name": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "bl_quantity": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_rev_item_revision_id": {
+                        "dbValues": [
+                            "A"
+                        ],
+                        "uiValues": [
+                            "A"
+                        ]
+                    },
+                    "bl_rev_object_name": {
+                        "dbValues": [
+                            "Brake System"
+                        ],
+                        "uiValues": [
+                            "Brake System"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Mfg0BvrEquipment..9.51P8frlU8JFxdA.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/Q2qRxE4BZ1HcSB..": {
+                "uid": "SR::N::Mfg0BvrEquipment..9.51P8frlU8JFxdA.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/Q2qRxE4BZ1HcSB..",
+                "className": "ImanItemBOPLine",
+                "type": "Mfg0BvrEquipment",
+                "props": {
+                    "bl_item_item_id": {
+                        "dbValues": [
+                            "000548"
+                        ],
+                        "uiValues": [
+                            "000548"
+                        ]
+                    },
+                    "bl_item_object_desc": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_line_name": {
+                        "dbValues": [
+                            "000548/A;1-Wrench"
+                        ],
+                        "uiValues": [
+                            "000548/A;1-Wrench"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Mfg0BvrEquipment..9.BOIn8K808JV3UB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/Q2uRxE4BZ1HcSB..": {
+                "uid": "SR::N::Mfg0BvrEquipment..9.BOIn8K808JV3UB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/Q2uRxE4BZ1HcSB..",
+                "className": "ImanItemBOPLine",
+                "type": "Mfg0BvrEquipment",
+                "props": {
+                    "bl_item_item_id": {
+                        "dbValues": [
+                            "000549"
+                        ],
+                        "uiValues": [
+                            "000549"
+                        ]
+                    },
+                    "bl_item_object_desc": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_line_name": {
+                        "dbValues": [
+                            "000549/A;1-Torque Wrench"
+                        ],
+                        "uiValues": [
+                            "000549/A;1-Torque Wrench"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Mfg0BvrEquipment..9.ugTedBur8J1YxA.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/Q6iRxE4BZ1HcSB..": {
+                "uid": "SR::N::Mfg0BvrEquipment..9.ugTedBur8J1YxA.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/Q6iRxE4BZ1HcSB..",
+                "className": "ImanItemBOPLine",
+                "type": "Mfg0BvrEquipment",
+                "props": {
+                    "bl_item_item_id": {
+                        "dbValues": [
+                            "000546"
+                        ],
+                        "uiValues": [
+                            "000546"
+                        ]
+                    },
+                    "bl_item_object_desc": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_line_name": {
+                        "dbValues": [
+                            "000546/A;1-Screw Driver"
+                        ],
+                        "uiValues": [
+                            "000546/A;1-Screw Driver"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Mfg0BvrPart..9.ZwthcBO58J1PLD.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/wupRxE4BZ1HcSB..": {
+                "uid": "SR::N::Mfg0BvrPart..9.ZwthcBO58J1PLD.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_gxmRxE4BZ1HcSB/wupRxE4BZ1HcSB..",
+                "className": "ImanItemBOPLine",
+                "type": "Mfg0BvrPart",
+                "props": {
+                    "bl_item_item_id": {
+                        "dbValues": [
+                            "010188"
+                        ],
+                        "uiValues": [
+                            "010188"
+                        ]
+                    },
+                    "bl_item_object_desc": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_line_name": {
+                        "dbValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ],
+                        "uiValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "bl_occ_type": {
+                        "dbValues": [
+                            "SSP0RequiredSkill"
+                        ],
+                        "uiValues": [
+                            "Required Skill"
+                        ]
+                    },
+                    "bl_occurrence_name": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "bl_quantity": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_rev_item_revision_id": {
+                        "dbValues": [
+                            "A"
+                        ],
+                        "uiValues": [
+                            "A"
+                        ]
+                    },
+                    "bl_rev_object_name": {
+                        "dbValues": [
+                            "Mechanical Engineer Grade - 2"
+                        ],
+                        "uiValues": [
+                            "Mechanical Engineer Grade - 2"
+                        ]
+                    }
+                }
+            },
+            "gpiRxE4BZ1HcSB": {
+                "objectID": "gpiRxE4BZ1HcSB",
+                "uid": "gpiRxE4BZ1HcSB",
+                "className": "SSP0WorkCardRevision",
+                "type": "SSP0WorkCardRevision",
+                "props": {}
+            },
+            "wOmRxE4BZ1HcSB": {
+                "objectID": "wOmRxE4BZ1HcSB",
+                "uid": "wOmRxE4BZ1HcSB",
+                "className": "MEActivity",
+                "type": "MEActivity",
+                "props": {}
+            },
+            "wOvRxE4BZ1HcSB": {
+                "objectID": "wOvRxE4BZ1HcSB",
+                "uid": "wOvRxE4BZ1HcSB",
+                "className": "MEActivity",
+                "type": "MEActivity",
+                "props": {}
+            },
+            "wSqRxE4BZ1HcSB": {
+                "objectID": "wSqRxE4BZ1HcSB",
+                "uid": "wSqRxE4BZ1HcSB",
+                "className": "MEActivity",
+                "type": "MEActivity",
+                "props": {}
+            },
+            "wWlRxE4BZ1HcSB": {
+                "objectID": "wWlRxE4BZ1HcSB",
+                "uid": "wWlRxE4BZ1HcSB",
+                "className": "MEActivity",
+                "type": "MEActivity",
+                "props": {}
+            },
+            "wagRxE4BZ1HcSB": {
+                "objectID": "wagRxE4BZ1HcSB",
+                "uid": "wagRxE4BZ1HcSB",
+                "className": "MEActivity",
+                "type": "MEActivity",
+                "props": {}
+            },
+            "weqRxE4BZ1HcSB": {
+                "objectID": "weqRxE4BZ1HcSB",
+                "uid": "weqRxE4BZ1HcSB",
+                "className": "MEActivity",
+                "type": "MEActivity",
+                "props": {}
+            },
+            "warRxE4BZ1HcSB": {
+                "objectID": "warRxE4BZ1HcSB",
+                "uid": "warRxE4BZ1HcSB",
+                "className": "MEActivity",
+                "type": "MEActivity",
+                "props": {}
+            },
+            "SR::N::Mfg0BvrEquipment..9.U9qTh6Ss8JVFHD.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_wBtRxE4BZ1HcSB/gCnRxE4BZ1HcSB..": {
+                "uid": "SR::N::Mfg0BvrEquipment..9.U9qTh6Ss8JVFHD.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_wBtRxE4BZ1HcSB/gCnRxE4BZ1HcSB..",
+                "className": "ImanItemBOPLine",
+                "type": "Mfg0BvrEquipment",
+                "props": {
+                    "bl_item_item_id": {
+                        "dbValues": [
+                            "000548"
+                        ],
+                        "uiValues": [
+                            "000548"
+                        ]
+                    },
+                    "bl_item_object_desc": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_line_name": {
+                        "dbValues": [
+                            "000548/A;1-Wrench"
+                        ],
+                        "uiValues": [
+                            "000548/A;1-Wrench"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Mfg0BvrEquipment..9.o1v9z4w38J11FC.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_wBtRxE4BZ1HcSB/gCrRxE4BZ1HcSB..": {
+                "uid": "SR::N::Mfg0BvrEquipment..9.o1v9z4w38J11FC.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_wBtRxE4BZ1HcSB/gCrRxE4BZ1HcSB..",
+                "className": "ImanItemBOPLine",
+                "type": "Mfg0BvrEquipment",
+                "props": {
+                    "bl_item_item_id": {
+                        "dbValues": [
+                            "000549"
+                        ],
+                        "uiValues": [
+                            "000549"
+                        ]
+                    },
+                    "bl_item_object_desc": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_line_name": {
+                        "dbValues": [
+                            "000549/A;1-Torque Wrench"
+                        ],
+                        "uiValues": [
+                            "000549/A;1-Torque Wrench"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Mfg0BvrEquipment..9.KcVW2alw8JlrqC.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_wBtRxE4BZ1HcSB/gCvRxE4BZ1HcSB..": {
+                "uid": "SR::N::Mfg0BvrEquipment..9.KcVW2alw8JlrqC.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_wBtRxE4BZ1HcSB/gCvRxE4BZ1HcSB..",
+                "className": "ImanItemBOPLine",
+                "type": "Mfg0BvrEquipment",
+                "props": {
+                    "bl_item_item_id": {
+                        "dbValues": [
+                            "000546"
+                        ],
+                        "uiValues": [
+                            "000546"
+                        ]
+                    },
+                    "bl_item_object_desc": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_line_name": {
+                        "dbValues": [
+                            "000546/A;1-Screw Driver"
+                        ],
+                        "uiValues": [
+                            "000546/A;1-Screw Driver"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Mfg0BvrPart..9.ikvoGZpo8JFWkC.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_wBtRxE4BZ1HcSB/ALnRxE4BZ1HcSB..": {
+                "uid": "SR::N::Mfg0BvrPart..9.ikvoGZpo8JFWkC.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_wBtRxE4BZ1HcSB/ALnRxE4BZ1HcSB..",
+                "className": "ImanItemBOPLine",
+                "type": "Mfg0BvrPart",
+                "props": {
+                    "bl_item_item_id": {
+                        "dbValues": [
+                            "010188"
+                        ],
+                        "uiValues": [
+                            "010188"
+                        ]
+                    },
+                    "bl_item_object_desc": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_line_name": {
+                        "dbValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ],
+                        "uiValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "bl_occ_type": {
+                        "dbValues": [
+                            "SSP0RequiredSkill"
+                        ],
+                        "uiValues": [
+                            "Required Skill"
+                        ]
+                    },
+                    "bl_occurrence_name": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "bl_quantity": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_rev_item_revision_id": {
+                        "dbValues": [
+                            "A"
+                        ],
+                        "uiValues": [
+                            "A"
+                        ]
+                    },
+                    "bl_rev_object_name": {
+                        "dbValues": [
+                            "Mechanical Engineer Grade - 2"
+                        ],
+                        "uiValues": [
+                            "Mechanical Engineer Grade - 2"
+                        ]
+                    }
+                }
+            },
+            "g5oRxE4BZ1HcSB": {
+                "objectID": "g5oRxE4BZ1HcSB",
+                "uid": "g5oRxE4BZ1HcSB",
+                "className": "SSP0WorkCardRevision",
+                "type": "SSP0WorkCardRevision",
+                "props": {}
+            },
+            "B8nRBNqUZ1HcSB": {
+                "objectID": "B8nRBNqUZ1HcSB",
+                "uid": "B8nRBNqUZ1HcSB",
+                "className": "MEActivity",
+                "type": "MEActivity",
+                "props": {}
+            },
+            "RAgRBNqUZ1HcSB": {
+                "objectID": "RAgRBNqUZ1HcSB",
+                "uid": "RAgRBNqUZ1HcSB",
+                "className": "MEActivity",
+                "type": "MEActivity",
+                "props": {}
+            },
+            "RArRBNqUZ1HcSB": {
+                "objectID": "RArRBNqUZ1HcSB",
+                "uid": "RArRBNqUZ1HcSB",
+                "className": "MEActivity",
+                "type": "MEActivity",
+                "props": {}
+            },
+            "REmRBNqUZ1HcSB": {
+                "objectID": "REmRBNqUZ1HcSB",
+                "uid": "REmRBNqUZ1HcSB",
+                "className": "MEActivity",
+                "type": "MEActivity",
+                "props": {}
+            },
+            "SR::N::Mfg0BvrEquipment..9.uVHMREy38JVFeD.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_xUmRBNqUZ1HcSB/xgmRBNqUZ1HcSB..": {
+                "uid": "SR::N::Mfg0BvrEquipment..9.uVHMREy38JVFeD.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_xUmRBNqUZ1HcSB/xgmRBNqUZ1HcSB..",
+                "className": "ImanItemBOPLine",
+                "type": "Mfg0BvrEquipment",
+                "props": {
+                    "bl_item_item_id": {
+                        "dbValues": [
+                            "000549"
+                        ],
+                        "uiValues": [
+                            "000549"
+                        ]
+                    },
+                    "bl_item_object_desc": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_line_name": {
+                        "dbValues": [
+                            "000549/A;1-Torque Wrench"
+                        ],
+                        "uiValues": [
+                            "000549/A;1-Torque Wrench"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Mfg0BvrEquipment..9.8rik$8g38JVqcC.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_xUmRBNqUZ1HcSB/xgqRBNqUZ1HcSB..": {
+                "uid": "SR::N::Mfg0BvrEquipment..9.8rik$8g38JVqcC.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_xUmRBNqUZ1HcSB/xgqRBNqUZ1HcSB..",
+                "className": "ImanItemBOPLine",
+                "type": "Mfg0BvrEquipment",
+                "props": {
+                    "bl_item_item_id": {
+                        "dbValues": [
+                            "000545"
+                        ],
+                        "uiValues": [
+                            "000545"
+                        ]
+                    },
+                    "bl_item_object_desc": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_line_name": {
+                        "dbValues": [
+                            "000545/A;1-Jack - Hydraulic"
+                        ],
+                        "uiValues": [
+                            "000545/A;1-Jack - Hydraulic"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Mfg0BvrEquipment..9.UliKApJk8JFLwB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_xUmRBNqUZ1HcSB/xguRBNqUZ1HcSB..": {
+                "uid": "SR::N::Mfg0BvrEquipment..9.UliKApJk8JFLwB.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_xUmRBNqUZ1HcSB/xguRBNqUZ1HcSB..",
+                "className": "ImanItemBOPLine",
+                "type": "Mfg0BvrEquipment",
+                "props": {
+                    "bl_item_item_id": {
+                        "dbValues": [
+                            "065239"
+                        ],
+                        "uiValues": [
+                            "065239"
+                        ]
+                    },
+                    "bl_item_object_desc": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_line_name": {
+                        "dbValues": [
+                            "065239/A;1-Jack Stand"
+                        ],
+                        "uiValues": [
+                            "065239/A;1-Jack Stand"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Mfg0BvrPart..9.4Phqz0j_8J1BjD.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_xUmRBNqUZ1HcSB/xkiRBNqUZ1HcSB..": {
+                "uid": "SR::N::Mfg0BvrPart..9.4Phqz0j_8J1BjD.ABiR2cCcZ1HcSB..gFmRxE4BZ1HcSB.Group:/Thid_xUmRBNqUZ1HcSB/xkiRBNqUZ1HcSB..",
+                "className": "ImanItemBOPLine",
+                "type": "Mfg0BvrPart",
+                "props": {
+                    "bl_item_item_id": {
+                        "dbValues": [
+                            "010188"
+                        ],
+                        "uiValues": [
+                            "010188"
+                        ]
+                    },
+                    "bl_item_object_desc": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_line_name": {
+                        "dbValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ],
+                        "uiValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "bl_occ_type": {
+                        "dbValues": [
+                            "SSP0RequiredSkill"
+                        ],
+                        "uiValues": [
+                            "Required Skill"
+                        ]
+                    },
+                    "bl_occurrence_name": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "bl_quantity": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_rev_item_revision_id": {
+                        "dbValues": [
+                            "A"
+                        ],
+                        "uiValues": [
+                            "A"
+                        ]
+                    },
+                    "bl_rev_object_name": {
+                        "dbValues": [
+                            "Mechanical Engineer Grade - 2"
+                        ],
+                        "uiValues": [
+                            "Mechanical Engineer Grade - 2"
+                        ]
+                    }
+                }
+            },
+            "xIlRBNqUZ1HcSB": {
+                "objectID": "xIlRBNqUZ1HcSB",
+                "uid": "xIlRBNqUZ1HcSB",
+                "className": "SSP0WorkCardRevision",
+                "type": "SSP0WorkCardRevision",
+                "props": {}
+            },
+            "xoqRBNqUZ1HcSB": {
+                "objectID": "xoqRBNqUZ1HcSB",
+                "uid": "xoqRBNqUZ1HcSB",
+                "className": "MEActivity",
+                "type": "MEActivity",
+                "props": {}
+            },
+            "xshRBNqUZ1HcSB": {
+                "objectID": "xshRBNqUZ1HcSB",
+                "uid": "xshRBNqUZ1HcSB",
+                "className": "MEActivity",
+                "type": "MEActivity",
+                "props": {}
+            },
+            "xwrRBNqUZ1HcSB": {
+                "objectID": "xwrRBNqUZ1HcSB",
+                "uid": "xwrRBNqUZ1HcSB",
+                "className": "MEActivity",
+                "type": "MEActivity",
+                "props": {}
+            },
+            "x4tRBNqUZ1HcSB": {
+                "objectID": "x4tRBNqUZ1HcSB",
+                "uid": "x4tRBNqUZ1HcSB",
+                "className": "MEActivity",
+                "type": "MEActivity",
+                "props": {}
+            },
+            "xwgRBNqUZ1HcSB": {
+                "objectID": "xwgRBNqUZ1HcSB",
+                "uid": "xwgRBNqUZ1HcSB",
+                "className": "MEActivity",
+                "type": "MEActivity",
+                "props": {}
+            },
+            "gBsRxE4BZ1HcSB": {
+                "objectID": "gBsRxE4BZ1HcSB",
+                "uid": "gBsRxE4BZ1HcSB",
+                "className": "SSP0ServiceReqRevision",
+                "type": "SSP0ServiceReqRevision",
+                "props": {}
+            }
+        }
+    }
+}

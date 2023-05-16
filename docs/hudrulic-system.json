@@ -1,0 +1,1268 @@
+{
+    ".QName": "http://swi1.com/Schemas/Svcworkinstructionsaw/2021-06/SvcWorkInstructionsAw.GetServiceWorkInstructionsResponse2",
+    "output": [
+        {
+            "relatedObjects": {
+                "FaultCode": [
+                    {
+                        "uid": "ivrJ4VJJZ1HcSB",
+                        "className": "FaultCode",
+                        "type": "FaultCode"
+                    },
+                    {
+                        "uid": "yLsJ4VJJZ1HcSB",
+                        "className": "FaultCode",
+                        "type": "FaultCode"
+                    },
+                    {
+                        "uid": "yLgJ4VJJZ1HcSB",
+                        "className": "FaultCode",
+                        "type": "FaultCode"
+                    }
+                ],
+                "Frequency": [
+                    {
+                        "uid": "g9gRBb0eZ1HcSB",
+                        "className": "SSP0FrequencyRevision",
+                        "type": "SSP0FrequencyRevision"
+                    }
+                ],
+                "PartApplicability": [],
+                "RequiredBy": [],
+                "Requires": [
+                    {
+                        "uid": "SEoJ4VJJZ1HcSB",
+                        "className": "SSP0ServiceReqRevision",
+                        "type": "SSP0ServiceReqRevision"
+                    }
+                ],
+                "SatisfiedBy": [],
+                "Satisfies": []
+            },
+            "swiItems": [
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..2.xMkJ4VJJZ1HcSB.RKrJ4VJJZ1HcSB.Q7qJ4VJJZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..3.xMkJ4VJJZ1HcSB.xEgJ4VJJZ1HcSB.Q7qJ4VJJZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..2..RKrJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..1..y7gJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..1..y7tJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..1..y$sJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..1..DArJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..1..DEqJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                },
+                {
+                    "uid": "SR::N::Swi1WorkInstructionsItem..1..DIpJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+                    "className": "Swi1WorkInstructionsItem",
+                    "type": "Swi1WorkInstructionsItem"
+                }
+            ]
+        }
+    ],
+    "ServiceData": {
+        "created": [
+            "SR::N::Swi1WorkInstructionsItem..2.xMkJ4VJJZ1HcSB.RKrJ4VJJZ1HcSB.Q7qJ4VJJZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..3.xMkJ4VJJZ1HcSB.xEgJ4VJJZ1HcSB.Q7qJ4VJJZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..2..RKrJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..1..y7gJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..1..y7tJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..1..y$sJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..1..DArJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..1..DEqJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+            "SR::N::Swi1WorkInstructionsItem..1..DIpJ4VJJZ1HcSB.woqR2cCcZ1HcSB"
+        ],
+        "plain": [
+            "ivrJ4VJJZ1HcSB",
+            "yLsJ4VJJZ1HcSB",
+            "yLgJ4VJJZ1HcSB",
+            "g9gRBb0eZ1HcSB",
+            "SEoJ4VJJZ1HcSB"
+        ],
+        "modelObjects": {
+            "SR::N::Swi1WorkInstructionsItem..2.xMkJ4VJJZ1HcSB.RKrJ4VJJZ1HcSB.Q7qJ4VJJZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..2.xMkJ4VJJZ1HcSB.RKrJ4VJJZ1HcSB.Q7qJ4VJJZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "To protect hands from any accidental injury, wear standard Safety Gloves."
+                        ],
+                        "uiValues": [
+                            "To protect hands from any accidental injury, wear standard Safety Gloves."
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Wear Safety Gloves"
+                        ],
+                        "uiValues": [
+                            "Wear Safety Gloves"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "Q7qJ4VJJZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "010184-Rebuild Hydraulic System to High-Capacity Configuration"
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1Resources": {},
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {},
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {},
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "RKrJ4VJJZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Wear Safety Gloves"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..3.xMkJ4VJJZ1HcSB.xEgJ4VJJZ1HcSB.Q7qJ4VJJZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..3.xMkJ4VJJZ1HcSB.xEgJ4VJJZ1HcSB.Q7qJ4VJJZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Dis-assemble High-Capacity Hydraulic Controller"
+                        ],
+                        "uiValues": [
+                            "Dis-assemble High-Capacity Hydraulic Controller"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "Q7qJ4VJJZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "010184-Rebuild Hydraulic System to High-Capacity Configuration"
+                        ]
+                    },
+                    "swi1Parts": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrPart..9.qnCMJb4H8J13_A.wsiR2cCcZ1HcSB..Q$qJ4VJJZ1HcSB.Group:/Thid_xMkJ4VJJZ1HcSB/hlrJ4VJJZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "010157/A;1-High Cap Hydraulic System"
+                        ]
+                    },
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "4120.000000"
+                        ],
+                        "uiValues": [
+                            "4120.000000"
+                        ]
+                    },
+                    "swi1Resources": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrEquipment..9.4zvBTH7z8J1__C.wsiR2cCcZ1HcSB..Q$qJ4VJJZ1HcSB.Group:/Thid_xMkJ4VJJZ1HcSB/RdlJ4VJJZ1HcSB..",
+                            "SR::N::Mfg0BvrEquipment..9.MSB8QZJ48JF_bC.wsiR2cCcZ1HcSB..Q$qJ4VJJZ1HcSB.Group:/Thid_xMkJ4VJJZ1HcSB/RdpJ4VJJZ1HcSB..",
+                            "SR::N::Mfg0BvrPart..9.GCoUiYio8J1b$D.wsiR2cCcZ1HcSB..Q$qJ4VJJZ1HcSB.Group:/Thid_xMkJ4VJJZ1HcSB/hFqJ4VJJZ1HcSB..",
+                            "SR::N::Mfg0BvrPart..9.qnCMJb4H8J13_A.wsiR2cCcZ1HcSB..Q$qJ4VJJZ1HcSB.Group:/Thid_xMkJ4VJJZ1HcSB/hlrJ4VJJZ1HcSB..",
+                            "SR::N::Mfg0BvrPart..9.vz3jtzmv8JVJGA.wsiR2cCcZ1HcSB..Q$qJ4VJJZ1HcSB.Group:/Thid_xMkJ4VJJZ1HcSB/CroJ4VJJZ1HcSB..",
+                            "SR::N::Mfg0BvrPart..9.SZnJFXQl8JF6fC.wsiR2cCcZ1HcSB..Q$qJ4VJJZ1HcSB.Group:/Thid_xMkJ4VJJZ1HcSB/DYvJ4VJJZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "000548/A;1-Wrench",
+                            "000546/A;1-Screw Driver",
+                            "010188/A;1-Mechanical Engineer Grade - 2",
+                            "010157/A;1-High Cap Hydraulic System",
+                            "010196/A;1-Rugs",
+                            "008385/A;1-Automation Engineer Grade -2"
+                        ]
+                    },
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrPart..9.GCoUiYio8J1b$D.wsiR2cCcZ1HcSB..Q$qJ4VJJZ1HcSB.Group:/Thid_xMkJ4VJJZ1HcSB/hFqJ4VJJZ1HcSB..",
+                            "SR::N::Mfg0BvrPart..9.SZnJFXQl8JF6fC.wsiR2cCcZ1HcSB..Q$qJ4VJJZ1HcSB.Group:/Thid_xMkJ4VJJZ1HcSB/DYvJ4VJJZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2",
+                            "008385/A;1-Automation Engineer Grade -2"
+                        ]
+                    },
+                    "swi1SupportingInformation": {
+                        "dbValues": [
+                            "CghJ4VJJZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "010189-Demo Service Planner 1.6"
+                        ]
+                    },
+                    "swi1Tools": {
+                        "dbValues": [
+                            "SR::N::Mfg0BvrEquipment..9.4zvBTH7z8J1__C.wsiR2cCcZ1HcSB..Q$qJ4VJJZ1HcSB.Group:/Thid_xMkJ4VJJZ1HcSB/RdlJ4VJJZ1HcSB..",
+                            "SR::N::Mfg0BvrEquipment..9.MSB8QZJ48JF_bC.wsiR2cCcZ1HcSB..Q$qJ4VJJZ1HcSB.Group:/Thid_xMkJ4VJJZ1HcSB/RdpJ4VJJZ1HcSB..",
+                            "SR::N::Mfg0BvrPart..9.vz3jtzmv8JVJGA.wsiR2cCcZ1HcSB..Q$qJ4VJJZ1HcSB.Group:/Thid_xMkJ4VJJZ1HcSB/CroJ4VJJZ1HcSB.."
+                        ],
+                        "uiValues": [
+                            "000548/A;1-Wrench",
+                            "000546/A;1-Screw Driver",
+                            "010196/A;1-Rugs"
+                        ]
+                    },
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "xEgJ4VJJZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "010186/A;1-Dis-assemble High-Capacity Hydraulic Controller"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..2..RKrJ4VJJZ1HcSB.woqR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..2..RKrJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "To protect hands from any accidental injury, wear standard Safety Gloves."
+                        ],
+                        "uiValues": [
+                            "To protect hands from any accidental injury, wear standard Safety Gloves."
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Wear Safety Gloves"
+                        ],
+                        "uiValues": [
+                            "Wear Safety Gloves"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.xMkJ4VJJZ1HcSB.xEgJ4VJJZ1HcSB.Q7qJ4VJJZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1Resources": {},
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {},
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {},
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "RKrJ4VJJZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Wear Safety Gloves"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..1..y7gJ4VJJZ1HcSB.woqR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..1..y7gJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Put on Safety Gloves"
+                        ],
+                        "uiValues": [
+                            "Put on Safety Gloves"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.xMkJ4VJJZ1HcSB.xEgJ4VJJZ1HcSB.Q7qJ4VJJZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "120.000000"
+                        ],
+                        "uiValues": [
+                            "120.000000"
+                        ]
+                    },
+                    "swi1Resources": {},
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {},
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {},
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "y7gJ4VJJZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Put on Safety Gloves"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..1..y7tJ4VJJZ1HcSB.woqR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..1..y7tJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Dis-assemble Distributor"
+                        ],
+                        "uiValues": [
+                            "Dis-assemble Distributor"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.xMkJ4VJJZ1HcSB.xEgJ4VJJZ1HcSB.Q7qJ4VJJZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "800.000000"
+                        ],
+                        "uiValues": [
+                            "800.000000"
+                        ]
+                    },
+                    "swi1Resources": {},
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {},
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {},
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "y7tJ4VJJZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Dis-assemble Distributor"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..1..y$sJ4VJJZ1HcSB.woqR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..1..y$sJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Remove Motion Controller"
+                        ],
+                        "uiValues": [
+                            "Remove Motion Controller"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.xMkJ4VJJZ1HcSB.xEgJ4VJJZ1HcSB.Q7qJ4VJJZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "800.000000"
+                        ],
+                        "uiValues": [
+                            "800.000000"
+                        ]
+                    },
+                    "swi1Resources": {},
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {},
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {},
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "y$sJ4VJJZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Remove Motion Controller"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..1..DArJ4VJJZ1HcSB.woqR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..1..DArJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Remove Attached Components"
+                        ],
+                        "uiValues": [
+                            "Remove Attached Components"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.xMkJ4VJJZ1HcSB.xEgJ4VJJZ1HcSB.Q7qJ4VJJZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "1200.000000"
+                        ],
+                        "uiValues": [
+                            "1200.000000"
+                        ]
+                    },
+                    "swi1Resources": {},
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {},
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {},
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "DArJ4VJJZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Remove Attached Components"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..1..DEqJ4VJJZ1HcSB.woqR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..1..DEqJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Remove Hydraulic Controller"
+                        ],
+                        "uiValues": [
+                            "Remove Hydraulic Controller"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.xMkJ4VJJZ1HcSB.xEgJ4VJJZ1HcSB.Q7qJ4VJJZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "900.000000"
+                        ],
+                        "uiValues": [
+                            "900.000000"
+                        ]
+                    },
+                    "swi1Resources": {},
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {},
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {},
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "DEqJ4VJJZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Remove Hydraulic Controller"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Swi1WorkInstructionsItem..1..DIpJ4VJJZ1HcSB.woqR2cCcZ1HcSB": {
+                "uid": "SR::N::Swi1WorkInstructionsItem..1..DIpJ4VJJZ1HcSB.woqR2cCcZ1HcSB",
+                "className": "Swi1WorkInstructionsItem",
+                "type": "Swi1WorkInstructionsItem",
+                "props": {
+                    "swi1ObjectDescription": {
+                        "dbValues": [
+                            "-"
+                        ],
+                        "uiValues": [
+                            "-"
+                        ]
+                    },
+                    "swi1ObjectName": {
+                        "dbValues": [
+                            "Clean up the area for any Oil leaks"
+                        ],
+                        "uiValues": [
+                            "Clean up the area for any Oil leaks"
+                        ]
+                    },
+                    "swi1Parent": {
+                        "dbValues": [
+                            "SR::N::Swi1WorkInstructionsItem..3.xMkJ4VJJZ1HcSB.xEgJ4VJJZ1HcSB.Q7qJ4VJJZ1HcSB"
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "swi1Parts": {},
+                    "swi1PartsInformation": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "swi1RequiredDuration": {
+                        "dbValues": [
+                            "300.000000"
+                        ],
+                        "uiValues": [
+                            "300.000000"
+                        ]
+                    },
+                    "swi1Resources": {},
+                    "swi1ResultingInformation": {},
+                    "swi1Skills": {},
+                    "swi1SupportingInformation": {},
+                    "swi1Tools": {},
+                    "swi1UnderlyingObject": {
+                        "dbValues": [
+                            "DIpJ4VJJZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "Clean up the area for any Oil leaks"
+                        ]
+                    }
+                }
+            },
+            "ivrJ4VJJZ1HcSB": {
+                "objectID": "ivrJ4VJJZ1HcSB",
+                "uid": "ivrJ4VJJZ1HcSB",
+                "className": "FaultCode",
+                "type": "FaultCode",
+                "props": {}
+            },
+            "yLsJ4VJJZ1HcSB": {
+                "objectID": "yLsJ4VJJZ1HcSB",
+                "uid": "yLsJ4VJJZ1HcSB",
+                "className": "FaultCode",
+                "type": "FaultCode",
+                "props": {}
+            },
+            "yLgJ4VJJZ1HcSB": {
+                "objectID": "yLgJ4VJJZ1HcSB",
+                "uid": "yLgJ4VJJZ1HcSB",
+                "className": "FaultCode",
+                "type": "FaultCode",
+                "props": {}
+            },
+            "g9gRBb0eZ1HcSB": {
+                "objectID": "g9gRBb0eZ1HcSB",
+                "uid": "g9gRBb0eZ1HcSB",
+                "className": "SSP0FrequencyRevision",
+                "type": "SSP0FrequencyRevision",
+                "props": {
+                    "ssp0FrequencyExpression": {
+                        "dbValues": [
+                            "Every 1 Years Or When OilPressure > 33"
+                        ],
+                        "uiValues": [
+                            "Every 1 Years Or When OilPressure > 33"
+                        ]
+                    }
+                }
+            },
+            "SEoJ4VJJZ1HcSB": {
+                "objectID": "SEoJ4VJJZ1HcSB",
+                "uid": "SEoJ4VJJZ1HcSB",
+                "className": "SSP0ServiceReqRevision",
+                "type": "SSP0ServiceReqRevision",
+                "props": {
+                    "object_name": {
+                        "dbValues": [
+                            "Inspect Hydraulic System"
+                        ],
+                        "uiValues": [
+                            "Inspect Hydraulic System"
+                        ]
+                    },
+                    "object_string": {
+                        "dbValues": [
+                            "010190/A;1-Inspect Hydraulic System"
+                        ],
+                        "uiValues": [
+                            "010190/A;1-Inspect Hydraulic System"
+                        ]
+                    }
+                }
+            },
+            "Q7qJ4VJJZ1HcSB": {
+                "objectID": "Q7qJ4VJJZ1HcSB",
+                "uid": "Q7qJ4VJJZ1HcSB",
+                "className": "SSP0ServiceReq",
+                "type": "SSP0ServiceReq",
+                "props": {
+                    "object_string": {
+                        "dbValues": [
+                            "010184-Rebuild Hydraulic System to High-Capacity Configuration"
+                        ],
+                        "uiValues": [
+                            "010184-Rebuild Hydraulic System to High-Capacity Configuration"
+                        ]
+                    },
+                    "revision_list": {
+                        "dbValues": [
+                            "Q$gJ4VJJZ1HcSB"
+                        ],
+                        "uiValues": [
+                            "010184/A;1-Rebuild Hydraulic System to High-Capacity Configuration"
+                        ]
+                    }
+                }
+            },
+            "RKrJ4VJJZ1HcSB": {
+                "objectID": "RKrJ4VJJZ1HcSB",
+                "uid": "RKrJ4VJJZ1HcSB",
+                "className": "Smr0Warning",
+                "type": "Smr0Warning",
+                "props": {
+                    "smr0warningType": {
+                        "dbValues": [
+                            "Smr0Caution"
+                        ],
+                        "uiValues": [
+                            "Caution"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Mfg0BvrPart..9.qnCMJb4H8J13_A.wsiR2cCcZ1HcSB..Q$qJ4VJJZ1HcSB.Group:/Thid_xMkJ4VJJZ1HcSB/hlrJ4VJJZ1HcSB..": {
+                "uid": "SR::N::Mfg0BvrPart..9.qnCMJb4H8J13_A.wsiR2cCcZ1HcSB..Q$qJ4VJJZ1HcSB.Group:/Thid_xMkJ4VJJZ1HcSB/hlrJ4VJJZ1HcSB..",
+                "className": "ImanItemBOPLine",
+                "type": "Mfg0BvrPart",
+                "props": {
+                    "bl_item_item_id": {
+                        "dbValues": [
+                            "010157"
+                        ],
+                        "uiValues": [
+                            "010157"
+                        ]
+                    },
+                    "bl_item_object_desc": {
+                        "dbValues": [
+                            "010157"
+                        ],
+                        "uiValues": [
+                            "010157"
+                        ]
+                    },
+                    "bl_line_name": {
+                        "dbValues": [
+                            "010157/A;1-High Cap Hydraulic System"
+                        ],
+                        "uiValues": [
+                            "010157/A;1-High Cap Hydraulic System"
+                        ]
+                    },
+                    "bl_occ_type": {
+                        "dbValues": [
+                            "MEDisassemble"
+                        ],
+                        "uiValues": [
+                            "MEDisassemble"
+                        ]
+                    },
+                    "bl_occurrence_name": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "bl_quantity": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_rev_item_revision_id": {
+                        "dbValues": [
+                            "A"
+                        ],
+                        "uiValues": [
+                            "A"
+                        ]
+                    },
+                    "bl_rev_object_name": {
+                        "dbValues": [
+                            "High Cap Hydraulic System"
+                        ],
+                        "uiValues": [
+                            "High Cap Hydraulic System"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Mfg0BvrEquipment..9.4zvBTH7z8J1__C.wsiR2cCcZ1HcSB..Q$qJ4VJJZ1HcSB.Group:/Thid_xMkJ4VJJZ1HcSB/RdlJ4VJJZ1HcSB..": {
+                "uid": "SR::N::Mfg0BvrEquipment..9.4zvBTH7z8J1__C.wsiR2cCcZ1HcSB..Q$qJ4VJJZ1HcSB.Group:/Thid_xMkJ4VJJZ1HcSB/RdlJ4VJJZ1HcSB..",
+                "className": "ImanItemBOPLine",
+                "type": "Mfg0BvrEquipment",
+                "props": {
+                    "bl_item_item_id": {
+                        "dbValues": [
+                            "000548"
+                        ],
+                        "uiValues": [
+                            "000548"
+                        ]
+                    },
+                    "bl_item_object_desc": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_line_name": {
+                        "dbValues": [
+                            "000548/A;1-Wrench"
+                        ],
+                        "uiValues": [
+                            "000548/A;1-Wrench"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Mfg0BvrEquipment..9.MSB8QZJ48JF_bC.wsiR2cCcZ1HcSB..Q$qJ4VJJZ1HcSB.Group:/Thid_xMkJ4VJJZ1HcSB/RdpJ4VJJZ1HcSB..": {
+                "uid": "SR::N::Mfg0BvrEquipment..9.MSB8QZJ48JF_bC.wsiR2cCcZ1HcSB..Q$qJ4VJJZ1HcSB.Group:/Thid_xMkJ4VJJZ1HcSB/RdpJ4VJJZ1HcSB..",
+                "className": "ImanItemBOPLine",
+                "type": "Mfg0BvrEquipment",
+                "props": {
+                    "bl_item_item_id": {
+                        "dbValues": [
+                            "000546"
+                        ],
+                        "uiValues": [
+                            "000546"
+                        ]
+                    },
+                    "bl_item_object_desc": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_line_name": {
+                        "dbValues": [
+                            "000546/A;1-Screw Driver"
+                        ],
+                        "uiValues": [
+                            "000546/A;1-Screw Driver"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Mfg0BvrPart..9.GCoUiYio8J1b$D.wsiR2cCcZ1HcSB..Q$qJ4VJJZ1HcSB.Group:/Thid_xMkJ4VJJZ1HcSB/hFqJ4VJJZ1HcSB..": {
+                "uid": "SR::N::Mfg0BvrPart..9.GCoUiYio8J1b$D.wsiR2cCcZ1HcSB..Q$qJ4VJJZ1HcSB.Group:/Thid_xMkJ4VJJZ1HcSB/hFqJ4VJJZ1HcSB..",
+                "className": "ImanItemBOPLine",
+                "type": "Mfg0BvrPart",
+                "props": {
+                    "bl_item_item_id": {
+                        "dbValues": [
+                            "010188"
+                        ],
+                        "uiValues": [
+                            "010188"
+                        ]
+                    },
+                    "bl_item_object_desc": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_line_name": {
+                        "dbValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ],
+                        "uiValues": [
+                            "010188/A;1-Mechanical Engineer Grade - 2"
+                        ]
+                    },
+                    "bl_occ_type": {
+                        "dbValues": [
+                            "SSP0RequiredSkill"
+                        ],
+                        "uiValues": [
+                            "Required Skill"
+                        ]
+                    },
+                    "bl_occurrence_name": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "bl_quantity": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_rev_item_revision_id": {
+                        "dbValues": [
+                            "A"
+                        ],
+                        "uiValues": [
+                            "A"
+                        ]
+                    },
+                    "bl_rev_object_name": {
+                        "dbValues": [
+                            "Mechanical Engineer Grade - 2"
+                        ],
+                        "uiValues": [
+                            "Mechanical Engineer Grade - 2"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Mfg0BvrPart..9.vz3jtzmv8JVJGA.wsiR2cCcZ1HcSB..Q$qJ4VJJZ1HcSB.Group:/Thid_xMkJ4VJJZ1HcSB/CroJ4VJJZ1HcSB..": {
+                "uid": "SR::N::Mfg0BvrPart..9.vz3jtzmv8JVJGA.wsiR2cCcZ1HcSB..Q$qJ4VJJZ1HcSB.Group:/Thid_xMkJ4VJJZ1HcSB/CroJ4VJJZ1HcSB..",
+                "className": "ImanItemBOPLine",
+                "type": "Mfg0BvrPart",
+                "props": {
+                    "bl_item_item_id": {
+                        "dbValues": [
+                            "010196"
+                        ],
+                        "uiValues": [
+                            "010196"
+                        ]
+                    },
+                    "bl_item_object_desc": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_line_name": {
+                        "dbValues": [
+                            "010196/A;1-Rugs"
+                        ],
+                        "uiValues": [
+                            "010196/A;1-Rugs"
+                        ]
+                    },
+                    "bl_occ_type": {
+                        "dbValues": [
+                            "SSP0ExpendableMaterial"
+                        ],
+                        "uiValues": [
+                            "Expendable Material"
+                        ]
+                    },
+                    "bl_occurrence_name": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "bl_quantity": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_rev_item_revision_id": {
+                        "dbValues": [
+                            "A"
+                        ],
+                        "uiValues": [
+                            "A"
+                        ]
+                    },
+                    "bl_rev_object_name": {
+                        "dbValues": [
+                            "Rugs"
+                        ],
+                        "uiValues": [
+                            "Rugs"
+                        ]
+                    }
+                }
+            },
+            "SR::N::Mfg0BvrPart..9.SZnJFXQl8JF6fC.wsiR2cCcZ1HcSB..Q$qJ4VJJZ1HcSB.Group:/Thid_xMkJ4VJJZ1HcSB/DYvJ4VJJZ1HcSB..": {
+                "uid": "SR::N::Mfg0BvrPart..9.SZnJFXQl8JF6fC.wsiR2cCcZ1HcSB..Q$qJ4VJJZ1HcSB.Group:/Thid_xMkJ4VJJZ1HcSB/DYvJ4VJJZ1HcSB..",
+                "className": "ImanItemBOPLine",
+                "type": "Mfg0BvrPart",
+                "props": {
+                    "bl_item_item_id": {
+                        "dbValues": [
+                            "008385"
+                        ],
+                        "uiValues": [
+                            "008385"
+                        ]
+                    },
+                    "bl_item_object_desc": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_line_name": {
+                        "dbValues": [
+                            "008385/A;1-Automation Engineer Grade -2"
+                        ],
+                        "uiValues": [
+                            "008385/A;1-Automation Engineer Grade -2"
+                        ]
+                    },
+                    "bl_occ_type": {
+                        "dbValues": [
+                            "SSP0RequiredSkill"
+                        ],
+                        "uiValues": [
+                            "Required Skill"
+                        ]
+                    },
+                    "bl_occurrence_name": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ],
+                        "isNulls": [
+                            true
+                        ]
+                    },
+                    "bl_quantity": {
+                        "dbValues": [
+                            ""
+                        ],
+                        "uiValues": [
+                            ""
+                        ]
+                    },
+                    "bl_rev_item_revision_id": {
+                        "dbValues": [
+                            "A"
+                        ],
+                        "uiValues": [
+                            "A"
+                        ]
+                    },
+                    "bl_rev_object_name": {
+                        "dbValues": [
+                            "Automation Engineer Grade -2"
+                        ],
+                        "uiValues": [
+                            "Automation Engineer Grade -2"
+                        ]
+                    }
+                }
+            },
+            "CghJ4VJJZ1HcSB": {
+                "objectID": "CghJ4VJJZ1HcSB",
+                "uid": "CghJ4VJJZ1HcSB",
+                "className": "C3D_ItemType",
+                "type": "C3D_ItemType",
+                "props": {}
+            },
+            "xEgJ4VJJZ1HcSB": {
+                "objectID": "xEgJ4VJJZ1HcSB",
+                "uid": "xEgJ4VJJZ1HcSB",
+                "className": "SSP0WorkCardRevision",
+                "type": "SSP0WorkCardRevision",
+                "props": {}
+            },
+            "y7gJ4VJJZ1HcSB": {
+                "objectID": "y7gJ4VJJZ1HcSB",
+                "uid": "y7gJ4VJJZ1HcSB",
+                "className": "MEActivity",
+                "type": "MEActivity",
+                "props": {}
+            },
+            "y7tJ4VJJZ1HcSB": {
+                "objectID": "y7tJ4VJJZ1HcSB",
+                "uid": "y7tJ4VJJZ1HcSB",
+                "className": "MEActivity",
+                "type": "MEActivity",
+                "props": {}
+            },
+            "y$sJ4VJJZ1HcSB": {
+                "objectID": "y$sJ4VJJZ1HcSB",
+                "uid": "y$sJ4VJJZ1HcSB",
+                "className": "MEActivity",
+                "type": "MEActivity",
+                "props": {}
+            },
+            "DArJ4VJJZ1HcSB": {
+                "objectID": "DArJ4VJJZ1HcSB",
+                "uid": "DArJ4VJJZ1HcSB",
+                "className": "MEActivity",
+                "type": "MEActivity",
+                "props": {}
+            },
+            "DEqJ4VJJZ1HcSB": {
+                "objectID": "DEqJ4VJJZ1HcSB",
+                "uid": "DEqJ4VJJZ1HcSB",
+                "className": "MEActivity",
+                "type": "MEActivity",
+                "props": {}
+            },
+            "DIpJ4VJJZ1HcSB": {
+                "objectID": "DIpJ4VJJZ1HcSB",
+                "uid": "DIpJ4VJJZ1HcSB",
+                "className": "MEActivity",
+                "type": "MEActivity",
+                "props": {}
+            },
+            "Q$gJ4VJJZ1HcSB": {
+                "objectID": "Q$gJ4VJJZ1HcSB",
+                "uid": "Q$gJ4VJJZ1HcSB",
+                "className": "SSP0ServiceReqRevision",
+                "type": "SSP0ServiceReqRevision",
+                "props": {}
+            }
+        }
+    }
+}
