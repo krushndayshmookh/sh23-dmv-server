@@ -16,7 +16,7 @@
 
     <style>
       body {
-        background: url("/assets/bg.jpg") no-repeat fixed;
+        background: url('/assets/bg.jpg') no-repeat fixed;
         background-size: cover;
         backdrop-filter: brightness(0.5);
         min-height: 100vh;
@@ -53,8 +53,13 @@
 
     <main class="container">
       <div class="row">
-        <div class="col s8">
+        <div class="col s12 m8 offset-m2 l8">
           <div class="card-panel rounded">
+            <img
+              src="/assets/frame.png"
+              alt="App Frame"
+              class="responsive-img hide-on-med-and-up" />
+
             <h1>SWI-FT</h1>
             <p class="flow-text">
               Follow the steps to install the app on your android device.
@@ -90,7 +95,7 @@
           </div>
         </div>
 
-        <div class="col s4">
+        <div class="col s4 hide-on-med-and-down">
           <img src="/assets/frame.png" alt="App Frame" class="responsive-img" />
         </div>
       </div>
@@ -101,6 +106,10 @@
 
     <script src="https://unpkg.com/vue@next"></script>
 
-    <script></script>
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        M.AutoInit()
+      })
+    </script>
   </body>
 </html>
