@@ -37,6 +37,10 @@
       .padded-left {
         padding-left: 1rem;
       }
+
+      .no-margin {
+        margin: 0 !important;
+      }
     </style>
   </head>
 
@@ -53,14 +57,14 @@
 
     <main class="container">
       <div class="row">
+        <img
+          src="/assets/frame-m.png"
+          alt="App Frame"
+          class="responsive-img hide-on-med-and-up" />
         <div class="col s12 m8 offset-m2 l8">
-          <div class="card-panel rounded">
-            <img
-              src="/assets/frame.png"
-              alt="App Frame"
-              class="responsive-img hide-on-med-and-up" />
+          <div class="card-panel rounded no-margin" >
 
-            <h1>SWI-FT</h1>
+            <h1 class="hide-on-med-and-down">SWI-FT</h1>
             <p class="flow-text">
               Follow the steps to install the app on your android device.
             </p>
