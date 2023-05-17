@@ -179,7 +179,7 @@ const extractSWIFromJSON = async (jsonPath, writeToDB = false) => {
   if (writeToDB) {
     const client = await createClient({
       connectionString:
-        'postgres://default:1SwpEWx2IlHv@ep-late-haze-086102.us-east-1.postgres.vercel-storage.com/verceldb',
+        process.env.POSTGRES,
     })
     await client.connect()
     console.log('connected to db')
